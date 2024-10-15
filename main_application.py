@@ -13,7 +13,7 @@ class MainApplication(QMainWindow):
         self.setCentralWidget(self.stacked_widget)
 
         self.login_window = LoginWindow(self.switch_to_main)
-        self.main_window = MainWindow()
+        self.main_window = MainWindow(self.switch_to_login)
 
         self.stacked_widget.addWidget(self.login_window)
         self.stacked_widget.addWidget(self.main_window)
@@ -26,11 +26,11 @@ class MainApplication(QMainWindow):
     def switch_to_main(self):
         self.stacked_widget.setCurrentIndex(1)
 
+    def switch_to_login(self):
+        self.stacked_widget.setCurrentIndex(0)  # Switch back to the login window
+
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = MainApplication()
     ex.show()
     sys.exit(app.exec())
-
-
-
