@@ -51,10 +51,10 @@ class LoginWindow(QWidget):
 
         # Create a container widget to center the content
         container = QWidget()
-        container.setFixedSize(300, 400)
+        container.setFixedSize(350, 400)
         container_layout = QVBoxLayout(container)
         container_layout.setSpacing(20)
-        container_layout.setContentsMargins(20, 20, 20, 20)
+        container_layout.setContentsMargins(20, 50, 20, 20)
         
         # Title bar with image
         title_layout = QHBoxLayout()
