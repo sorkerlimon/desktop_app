@@ -2,8 +2,8 @@ from PyQt6.QtWidgets import (
     QWidget, QLabel, QPushButton, QVBoxLayout, QHBoxLayout,
     QScrollArea, QFrame, QApplication, QMessageBox
 )
-from PyQt6.QtGui import QFont, QPixmap
-from PyQt6.QtCore import Qt, QTimer, QTime
+from PyQt6.QtGui import QFont, QPixmap,QDesktopServices
+from PyQt6.QtCore import Qt, QTimer, QTime,QUrl
 import sys
 from PyQt6.QtWidgets import QDialog, QVBoxLayout, QLabel, QPushButton, QHBoxLayout
 from PyQt6.QtCore import Qt,QDate
@@ -139,9 +139,35 @@ class MainWindow(QWidget):
         bottom_layout.addWidget(date_label)
         
         bottom_layout.addStretch()
-        
+
+        def open_dashboard():
+        # Replace this URL with your desired link
+            url = "https://www.example.com/dashboard"
+            QDesktopServices.openUrl(QUrl(url))
+            
         open_dashboard_btn = QPushButton("Open Dashboard")
-        open_dashboard_btn.setStyleSheet("background-color: transparent; color: #6E5BDE;")
+        # open_dashboard_btn.setStyleSheet("background-color: transparent; color: #6E5BDE;")
+        open_dashboard_btn.setStyleSheet("""
+            QPushButton {
+                background-color: transparent; 
+                color: #6E5BDE; 
+                border: none; 
+                padding: 10px 20px; 
+                font-size: 16px; 
+                font-weight: bold; 
+                border-radius: 10px; 
+            }
+            QPushButton:hover {
+                background-color: rgba(110, 91, 222, 0.1); 
+                color: #4A3C9E; 
+            }
+            QPushButton:pressed {
+                background-color: rgba(110, 91, 222, 0.2); 
+                color: #3A2E7D; 
+            }
+        """)
+
+        open_dashboard_btn.clicked.connect(open_dashboard)
         bottom_layout.addWidget(open_dashboard_btn)
         
         layout.addLayout(bottom_layout)
@@ -155,6 +181,7 @@ class MainWindow(QWidget):
         self.is_clocked_in = False
         self.is_on_break = False
         self.break_btn.setEnabled(False)
+
 
     def add_time_log_entries(self, layout, entries):
         for entry in entries:
@@ -206,14 +233,6 @@ class MainWindow(QWidget):
             self.timer.start(1000)
         self.break_btn.setStyle(self.break_btn.style())
 
-    # def on_logout_click(self, event):
-    #     self.confirm_logout()
-
-    # def confirm_logout(self):
-    #     dialog = ConfirmationDialog("Are you sure you want to logout?", self)
-    #     if dialog.exec() == QDialog.DialogCode.Accepted:
-    #         self.toggle_clock()
-    #         self.logout_callback() 
 
     def on_logout_click(self, event):
         # Check if the user is clocked in before logging out
