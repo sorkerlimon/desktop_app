@@ -1,24 +1,13 @@
-import asyncio
-import time
+import MySQLdb
 
-async def fetch_data(n):
-    print(f"Start fetching data {n}...")
-    await asyncio.sleep(2)  
-    print(f"Data {n} fetched!")
-    return f"Result from data {n}"
-
-async def main():
-    print("Starting the async tasks...")
-    results = await asyncio.gather(
-        fetch_data(1),
-        fetch_data(2),
-        fetch_data(3)
+try:
+    connection = MySQLdb.connect(
+        host="192.168.0.119",  # or the IP address of the MySQL server
+        port=3306,         # default MySQL port
+        user="root",
+        passwd="limon123",
     )
-    print("All tasks completed!")
-    print(f"Results: {results}")
-
-start_time = time.time()
-asyncio.run(main())
-end_time = time.time()
-
-print(f"Total time taken: {end_time - start_time:.2f} seconds")
+    print("Connected to MySQL server successfully!")
+    connection.close()
+except MySQLdb.OperationalError as e:
+    print(f"Error connecting to MySQL: {e}")

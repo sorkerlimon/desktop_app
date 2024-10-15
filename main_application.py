@@ -3,6 +3,8 @@ from PyQt6.QtWidgets import QMainWindow, QStackedWidget
 from PyQt6.QtGui import QIcon
 from login_window import LoginWindow
 from main_window import MainWindow
+from PyQt6.QtWidgets import QApplication
+import sys
 
 class MainApplication(QMainWindow):
     def __init__(self):
@@ -19,14 +21,16 @@ class MainApplication(QMainWindow):
         self.setWindowTitle('TechnoBD Time Tracker')
         self.setGeometry(100, 100, 400, 600)
         self.setFixedSize(400, 600)
-
-
-        # Set window icon (logo)
-        self.setWindowIcon(QIcon('code.png'))  # Update with the path to your logo file
+        self.setWindowIcon(QIcon('code.png')) 
 
     def switch_to_main(self):
         self.stacked_widget.setCurrentIndex(1)
 
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    ex = MainApplication()
+    ex.show()
+    sys.exit(app.exec())
 
 
 
