@@ -3,7 +3,7 @@ from PyQt6.QtWidgets import (
     QScrollArea, QFrame, QApplication, QMessageBox
 )
 from PyQt6.QtGui import QFont, QPixmap,QDesktopServices
-from PyQt6.QtCore import Qt, QTimer, QTime,QUrl
+from PyQt6.QtCore import Qt, QTimer, QTime,QUrl,QDateTime
 import sys
 from PyQt6.QtWidgets import QDialog, QVBoxLayout, QLabel, QPushButton, QHBoxLayout
 from PyQt6.QtCore import Qt,QDate
@@ -196,17 +196,22 @@ class MainWindow(QWidget):
         if self.is_clocked_in and not self.is_on_break:
             self.time = self.time.addSecs(1)
             self.timer_label.setText(self.time.toString("hh:mm:ss") + " h")
+    
+    def get_current_datetime(self):
+        return QDateTime.currentDateTime().toString("yyyy-MM-dd HH:mm:ss")
 
+    def print_action(self, action):
+        print(f"{action}: {self.get_current_datetime()}")
+        
     def toggle_clock(self):
-        if not self.is_clocked_in:
-            #   
+        if not self.is_clocked_in: 
             self.is_clocked_in = True
             self.clock_btn.setText("Clock Out")
             self.clock_btn.setObjectName("clock_out")
             self.break_btn.setEnabled(True)
             self.timer.start(1000)
+            self.print_action("Clock In")
         else:
-            # Clock Out
             self.is_clocked_in = False
             self.clock_btn.setText("Clock In")
             self.clock_btn.setObjectName("action")
@@ -214,40 +219,38 @@ class MainWindow(QWidget):
             self.timer.stop()
             self.time = QTime(0, 0, 0)
             self.timer_label.setText("00:00:00 h")
+            self.print_action("Clock out")
         self.clock_btn.setStyle(self.clock_btn.style())
 
     def toggle_break(self):
         if not self.is_on_break:
-            # Take a Break
             self.is_on_break = True
             self.break_btn.setText("Break Out")
             self.break_btn.setObjectName("break_out")
             self.clock_btn.setEnabled(False)
             self.timer.stop()
+            self.print_action("Break In")
         else:
-            # Break Out
             self.is_on_break = False
             self.break_btn.setText("Take a Break")
             self.break_btn.setObjectName("action")
             self.clock_btn.setEnabled(True)
             self.timer.start(1000)
+            self.print_action("Break Out")
         self.break_btn.setStyle(self.break_btn.style())
 
 
     def on_logout_click(self, event):
-        # Check if the user is clocked in before logging out
         if self.is_clocked_in:
-            # Prompt the user to clock out before logging out
             dialog = ConfirmationDialog("Clock out before logout?", self)
             if dialog.exec() == QDialog.DialogCode.Accepted:
-                self.toggle_clock()  # Clock out the user
+                self.toggle_clock() 
                 self.confirm_logout()
+                
         else:
-            # Proceed with logout if already clocked out
             self.confirm_logout()
 
     def confirm_logout(self):
-        # Final confirmation dialog before logout
         dialog = ConfirmationDialog("Are you sure you want to logout?", self)
         if dialog.exec() == QDialog.DialogCode.Accepted:
-            self.logout_callback()  # Perform the logout action
+            self.logout_callback()  

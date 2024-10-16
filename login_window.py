@@ -1,8 +1,3 @@
-# File: login_window.py
-from PyQt6.QtWidgets import (QWidget, QLabel, QPushButton, QVBoxLayout, QLineEdit, 
-                             QGraphicsDropShadowEffect, QMessageBox, QHBoxLayout)
-from PyQt6.QtGui import QFont, QColor, QIcon, QPixmap
-from PyQt6.QtCore import Qt, QPropertyAnimation, QSize
 from PyQt6.QtWidgets import (QWidget, QLabel, QPushButton, QVBoxLayout, QLineEdit, 
                              QGraphicsDropShadowEffect, QMessageBox, QHBoxLayout)
 from PyQt6.QtGui import QFont, QColor, QIcon, QPixmap
@@ -49,7 +44,10 @@ class LoginWindow(QWidget):
         main_layout = QVBoxLayout(self)
         main_layout.setContentsMargins(0, 0, 0, 0)
 
-        # Create a container widget to center the content
+        # Add a spacer at the top to push content down
+        main_layout.addSpacing(100)
+
+        # Create a container widget to hold the content
         container = QWidget()
         container.setFixedSize(350, 400)
         container_layout = QVBoxLayout(container)
@@ -92,8 +90,11 @@ class LoginWindow(QWidget):
         # Add stretch to push everything to the top within the container
         container_layout.addStretch()
 
-        # Center the container in the main layout
-        main_layout.addWidget(container, alignment=Qt.AlignmentFlag.AlignCenter)
+        # Center the container horizontally in the main layout
+        main_layout.addWidget(container, alignment=Qt.AlignmentFlag.AlignHCenter)
+
+        # Add another spacer at the bottom for balance
+        main_layout.addSpacing(50)
 
     def add_shadow(self, widget):
         shadow = QGraphicsDropShadowEffect(self)
@@ -108,6 +109,7 @@ class LoginWindow(QWidget):
         password = self.password.text()
 
         if username == "limon" and password == "limon":
+            print("Login successful!")
             self.animate_login()
         else:
             QMessageBox.warning(self, "Login Failed", "Invalid username or password.")
