@@ -57,7 +57,7 @@ class LoginWindow(QWidget):
         # Title bar with image
         title_layout = QHBoxLayout()
         logo = QLabel()
-        pixmap = QPixmap("code.png")  # Make sure this file exists in your project directory
+        pixmap = QPixmap("images/code.png")  # Make sure this file exists in your project directory
         logo.setPixmap(pixmap.scaled(QSize(40, 40), Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))
         title_layout.addWidget(logo)
         

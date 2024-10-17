@@ -21,13 +21,13 @@ class MainApplication(QMainWindow):
         self.setWindowTitle('TechnoBD Time Tracker')
         self.setGeometry(100, 100, 400, 600)
         self.setFixedSize(400, 600)
-        self.setWindowIcon(QIcon('code.png')) 
+        self.setWindowIcon(QIcon('images/code.png')) 
 
     def switch_to_main(self):
         self.stacked_widget.setCurrentIndex(1)
 
     def switch_to_login(self):
-        self.stacked_widget.setCurrentIndex(0)  # Switch back to the login window
+        self.stacked_widget.setCurrentIndex(0) 
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
