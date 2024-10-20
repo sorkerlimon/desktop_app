@@ -22,7 +22,7 @@ class MainApplication(QMainWindow):
         self.setGeometry(100, 100, 400, 600)
         self.setFixedSize(400, 600)
         self.setWindowIcon(QIcon('images/code.png')) 
-
+ 
     def switch_to_main(self):
         self.stacked_widget.setCurrentIndex(1)
 

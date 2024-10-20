@@ -1,0 +1,112 @@
+Time: 2024-10-20 15:17:37
+Title: 
+URL: https://outlook.office.com/mail/oobe?reuseWindow=true%2F%3FnativeVersion%3D1.2024.717.400&sessionId=99284004-6d97-0644-be60-674d5a2ffc8c&oobeRedirect=NA&loadModule=%2Fmail%2F
+--------------------------------------------------
+Time: 2024-10-20 15:17:52
+Title: how to disable new outlook windows 11 - Google Search
+URL: https://www.google.com/search?q=how+to+disable+new+outlook+windows+11&oq=how+to+disable+new+out&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIGCAkQLhhA0gEIODg0OGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 15:17:53
+Title: how to disable new outlook windows 11 - Google Search
+URL: https://www.google.com/search?q=how+to+disable+new+outlook+windows+11&oq=how+to+disable+new+out&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIGCAkQLhhA0gEIODg0OGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 15:17:58
+Title: Redirecting
+URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=a81d90ac-aa75-4cf8-b14c-58bf348528fe&redirect_uri=https%3A%2F%2Fanswers.microsoft.com&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3D4wvo_OQtt5R2cFDT_Rz4EmynTFI03tMHP4RtxTozm-y7gSNioTFzjrEpEzffkk6V7F2u8-Z-0PelayTQ-4Eg6r320xwA8TrkcqxVaJ5WqSaLdrNYgylKeU5DdaKOZnGUh6pIlV21tMGt8Ij-dJ96zeH_TOBjuMt6FttMjXaVj88e15K3B4_6oW6042gpM8CI5KuV43yJ1rZuakUuCvKpJg7Ta28qy6he5y3aM2lprHKHLk4fkHw8J8C2TzUbwEf3kWod67teu7Tn142ENfzQ0wfExDAK_wH3K3xdtA_pVZTmTQg31h9cNyN2c9FlDPUXGtYj6AHfOR-RpzsCPCSrznJQ6QkFJrmO63yo2jg5LypZo2DbBKx8ij_mYcojCCrN&response_mode=form_post&nonce=638650126778203307.NWZhMjE1YWYtYTcxZS00ZmI0LThkYWQtZmM1NDI3NGVjNzMwYWE0MjYzMmEtNDdmMS00NTJmLWJjZDktM2Q2MmEyZTllYzM2&nopa=2&prompt=none&x-client-SKU=ID_NET472&x-client-ver=7.6.0.0
+--------------------------------------------------
+Time: 2024-10-20 15:17:58
+Title: Redirecting
+URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=a81d90ac-aa75-4cf8-b14c-58bf348528fe&redirect_uri=https%3A%2F%2Fanswers.microsoft.com&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3D4wvo_OQtt5R2cFDT_Rz4EmynTFI03tMHP4RtxTozm-y7gSNioTFzjrEpEzffkk6V7F2u8-Z-0PelayTQ-4Eg6r320xwA8TrkcqxVaJ5WqSaLdrNYgylKeU5DdaKOZnGUh6pIlV21tMGt8Ij-dJ96zeH_TOBjuMt6FttMjXaVj88e15K3B4_6oW6042gpM8CI5KuV43yJ1rZuakUuCvKpJg7Ta28qy6he5y3aM2lprHKHLk4fkHw8J8C2TzUbwEf3kWod67teu7Tn142ENfzQ0wfExDAK_wH3K3xdtA_pVZTmTQg31h9cNyN2c9FlDPUXGtYj6AHfOR-RpzsCPCSrznJQ6QkFJrmO63yo2jg5LypZo2DbBKx8ij_mYcojCCrN&response_mode=form_post&nonce=638650126778203307.NWZhMjE1YWYtYTcxZS00ZmI0LThkYWQtZmM1NDI3NGVjNzMwYWE0MjYzMmEtNDdmMS00NTJmLWJjZDktM2Q2MmEyZTllYzM2&nopa=2&prompt=none&x-client-SKU=ID_NET472&x-client-ver=7.6.0.0&sso_reload=true
+--------------------------------------------------
+Time: 2024-10-20 15:18:00
+Title: How do you permanently turn off new outlook? - Microsoft Community
+URL: https://answers.microsoft.com/en-us/outlook_com/forum/all/how-do-you-permanently-turn-off-new-outlook/e58781f7-5199-40ea-95f0-db3e40385eaa
+--------------------------------------------------
+Time: 2024-10-20 15:18:13
+Title: How to remove the New Outlook from Windows 11 - Microsoft Community
+URL: https://answers.microsoft.com/en-us/windows/forum/all/how-to-remove-the-new-outlook-from-windows-11/235912ed-92c8-4c50-b372-3267583943c7
+--------------------------------------------------
+Time: 2024-10-20 15:18:15
+Title: How to Disable New Outlook in Windows 11 - YouTube
+URL: https://www.youtube.com/watch?v=84P9NP-PN60
+--------------------------------------------------
+Time: 2024-10-20 15:18:37
+Title: Outlook
+URL: https://outlook.office.com/mail/?reuseWindow=true%2F%3FnativeVersion%3D1.2024.717.400&sessionId=99284004-6d97-0644-be60-674d5a2ffc8c&oobeRedirect=NA&loadModule=%2Fmail%2F&bO=1
+--------------------------------------------------
+Time: 2024-10-20 15:20:43
+Title: How to turn off New Outlook - YouTube
+URL: https://www.youtube.com/watch?v=HRqKwqm9GNg
+--------------------------------------------------
+Time: 2024-10-20 15:42:32
+Title: Claude
+URL: https://claude.ai/new
+--------------------------------------------------
+Time: 2024-10-20 15:43:46
+Title: Filtering Chrome Browsing History by Time Range - Claude
+URL: https://claude.ai/chat/ce73680e-03e4-4222-af55-1e68e38553cd
+--------------------------------------------------
+Time: 2024-10-20 15:45:38
+Title: ChatGPT
+URL: https://chatgpt.com/?model=auto
+--------------------------------------------------
+Time: 2024-10-20 15:55:45
+Title: NZ 110/2 (27.4 ov, Will Young 48*, Rachin Ravindra 39*, Ravindra Jadeja 0/28, IND vs NZ live score, 1st Test, day 4, M Chinnaswamy Stadium, Bengaluru, October 16 - 20, 2024
+URL: https://www.espncricinfo.com/series/new-zealand-in-india-2024-25-1439847/india-vs-new-zealand-1st-test-1439896/live-cricket-score
+--------------------------------------------------
+Time: 2024-10-20 15:56:03
+Title: WI 55/3 (13 ov, Shai Hope 4*, Jeffrey Vandersay 1/4, WI vs SL live score, 1st ODI, Pallekele International Cricket Stadium, October 20, 2024
+URL: https://www.espncricinfo.com/series/west-indies-in-sri-lanka-2024-25-1451810/sri-lanka-vs-west-indies-1st-odi-1451817/live-cricket-score
+--------------------------------------------------
+Time: 2024-10-20 15:56:18
+Title: FastAPI - Swagger UI
+URL: http://127.0.0.1:8000/docs#/default
+--------------------------------------------------
+Time: 2024-10-20 15:56:18
+Title: FastAPI - Swagger UI
+URL: http://127.0.0.1:8000/docs#/default/protected%20route%20protected%20route%20%20get
+--------------------------------------------------
+Time: 2024-10-20 15:56:18
+Title: FastAPI - Swagger UI
+URL: http://127.0.0.1:8000/docs#/default/protected_route_protected_route__get
+--------------------------------------------------
+Time: 2024-10-20 15:56:18
+Title: FastAPI - Swagger UI
+URL: http://127.0.0.1:8000/docs#/default/protected_route_protected_route__get
+--------------------------------------------------
+Time: 2024-10-20 15:56:27
+Title: WebHR | Technobd
+URL: https://technobd.webhr.co/hr/home/#noanchor
+--------------------------------------------------
+Time: 2024-10-20 15:56:29
+Title: WebHR | Technobd
+URL: https://technobd.webhr.co/hr/home/#noanchor
+--------------------------------------------------
+Time: 2024-10-20 15:59:07
+Title: ExamTopics - Biggest Actual IT Exams Database - Validation
+URL: https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/2/
+--------------------------------------------------
+Time: 2024-10-20 15:59:16
+Title: ExamTopics - Biggest Actual IT Exams Database - Validation
+URL: https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/2/
+--------------------------------------------------
+Time: 2024-10-20 15:59:16
+Title: ExamTopics - Biggest Actual IT Exams Database - Validation
+URL: https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/2/#
+--------------------------------------------------
+Time: 2024-10-20 15:59:17
+Title: ExamTopics - Biggest Actual IT Exams Database - Validation
+URL: https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/2/#
+--------------------------------------------------
+Time: 2024-10-20 15:59:20
+Title: Latest Prep for Cisco Exams from Entry to Architect | ExamTopics
+URL: https://www.examtopics.com/exams/cisco/
+--------------------------------------------------
+Time: 2024-10-20 15:59:26
+Title: AWS Free Amazon Certification Exam Questions | ExamTopics
+URL: https://www.examtopics.com/exams/amazon/
+--------------------------------------------------
+Time: 2024-10-20 15:59:40
+Title: Free & Accurate Amazon AWS DevOps Engineer Professional Practice Questions | ExamTopics
+URL: https://www.examtopics.com/exams/amazon/aws-devops-engineer-professional/
+--------------------------------------------------

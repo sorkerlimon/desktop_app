@@ -1,0 +1,1752 @@
+Time: 2024-10-20 09:51:31
+Title: Amazon Web Services Sign-In
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false
+--------------------------------------------------
+Time: 2024-10-20 09:51:32
+Title: Amazon Web Services Sign-In
+URL: https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2%2Fhome%3FhashArgs%3D%2523Instances%253Av%253D3%253B%2524case%253Dtags%253Atrue%25255C%252Cclient%253Afalse%253B%2524regex%253Dtags%253Afalse%25255C%252Cclient%253Afalse%26isauthcode%3Dtrue%26oauthStart%3D1729396292328%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_58c8a3237c0d8c9e&forceMobileLayout=0&forceMobileApp=0&code_challenge=d8vbDZ2OTzUK_mSOAQTyRWdESaxEDqq26AHpSvt5AdU&code_challenge_method=SHA-256
+--------------------------------------------------
+Time: 2024-10-20 09:51:36
+Title: EC2 Instance Connect
+URL: https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?region=us-east-1&connType=standard&instanceId=i-0bd2d4e7fdc7b1659&osUser=ubuntu&sshPort=22&addressFamily=ipv4#/
+--------------------------------------------------
+Time: 2024-10-20 09:51:36
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 09:51:38
+Title: Notification icons for free download | Freepik
+URL: https://www.freepik.com/icons/notification
+--------------------------------------------------
+Time: 2024-10-20 09:51:39
+Title: EC2 Instance Connect
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Foneclickv2&code_challenge=pLIZlR5fbSdSc1VZQzbohM7f3A8NujLZDMrOSb83O8U&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2-instance-connect%2Fssh%3FaddressFamily%3Dipv4%26connType%3Dstandard%26hashArgs%3D%2523%252F%26instanceId%3Di-0bd2d4e7fdc7b1659%26isauthcode%3Dtrue%26oauthStart%3D1729396297720%26osUser%3Dubuntu%26region%3Dus-east-1%26sshPort%3D22%26state%3DhashArgsFromTB_us-east-1_6baccf6c5f7099a3
+--------------------------------------------------
+Time: 2024-10-20 09:51:40
+Title: AWS Instance Migration Guide
+URL: https://chatgpt.com/c/6711f723-5720-8004-b69d-1d4c2f36d77a
+--------------------------------------------------
+Time: 2024-10-20 09:51:43
+Title: Amazon Web Services Sign-In
+URL: https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2%2Fhome%3FhashArgs%3D%2523Instances%253Av%253D3%253B%2524case%253Dtags%253Atrue%25255C%252Cclient%253Afalse%253B%2524regex%253Dtags%253Afalse%25255C%252Cclient%253Afalse%26isauthcode%3Dtrue%26oauthStart%3D1729396292328%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_58c8a3237c0d8c9e&forceMobileLayout=0&forceMobileApp=0&code_challenge=d8vbDZ2OTzUK_mSOAQTyRWdESaxEDqq26AHpSvt5AdU&code_challenge_method=SHA-256#
+--------------------------------------------------
+Time: 2024-10-20 09:51:45
+Title: Billing Management Console
+URL: https://signin.aws.amazon.com/oauth?response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fbilling%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%252Fbills%26isauthcode%3Dtrue&code_challenge_method=SHA-256&client_id=arn%3Aaws%3Aiam%3A%3A934814114565%3Auser%2Fportal-aws-auth&code_challenge=27mgJCwwlLdnmsE-dvPpFK3Ikbd8Ne1rmYB4xpQPEw8
+--------------------------------------------------
+Time: 2024-10-20 09:51:45
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills
+--------------------------------------------------
+Time: 2024-10-20 09:51:49
+Title: amarkagojpatro.com - details
+URL: https://us-east-1.console.aws.amazon.com/route53/v2/hostedzones?region=us-east-1#ListRecordSets/Z01458091LKLEQ84ISNMA
+--------------------------------------------------
+Time: 2024-10-20 09:51:50
+Title: amarkagojpatro.com - details
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Froute53-daas&code_challenge=7QRX89BqMUvHGUq0VmnZ40aeMF-JxMMhIFHhXLekNVY&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Froute53%2Fv2%2Fhostedzones%3FhashArgs%3D%2523ListRecordSets%252FZ01458091LKLEQ84ISNMA%26isauthcode%3Dtrue%26oauthStart%3D1729396310698%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_99c4aa8e68443a4b
+--------------------------------------------------
+Time: 2024-10-20 09:51:52
+Title: Amazon Web Services Sign-In
+URL: https://us-east-1.console.aws.amazon.com/s3/buckets/medi-archive?region=us-east-1&bucketType=general&tab=objects
+--------------------------------------------------
+Time: 2024-10-20 09:51:53
+Title: medi-archive - S3 bucket | S3 | us-east-1
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fs3tb&code_challenge=OAa3swI6-9F34GT5G46aoy2ycO5j9miSpzcOBlp0FC4&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fs3%2Fbuckets%2Fmedi-archive%3FbucketType%3Dgeneral%26hashArgs%3D%2523%26isauthcode%3Dtrue%26oauthStart%3D1729396314269%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_c6eaab958fcfd418%26tab%3Dobjects
+--------------------------------------------------
+Time: 2024-10-20 09:51:54
+Title: Separating Clock Timer Functionality into Reusable Class - Claude
+URL: https://claude.ai/chat/41da495a-8ae7-41ec-8532-bc84935db8a7
+--------------------------------------------------
+Time: 2024-10-20 09:51:57
+Title: Compute – Amazon EC2 Instance Types – AWS
+URL: https://aws.amazon.com/ec2/instance-types/?gclid=CjwKCAjw68K4BhAuEiwAylp3kpHvyN7egmU7y6C6n9tbHvaBxkN59b_eMROP8WzqxY1-YmAG89XH4RoCopQQAvD_BwE&trk=32f4fbd0-ffda-4695-a60c-8857fab7d0dd&sc_channel=ps&ef_id=CjwKCAjw68K4BhAuEiwAylp3kpHvyN7egmU7y6C6n9tbHvaBxkN59b_eMROP8WzqxY1-YmAG89XH4RoCopQQAvD_BwE:G:s&s_kwcid=AL!4422!3!536396490415!p!!g!!ec2%20cloud%20computing!11539707735!118057053248
+--------------------------------------------------
+Time: 2024-10-20 09:52:02
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-05f153c2715676d6c
+--------------------------------------------------
+Time: 2024-10-20 09:52:03
+Title: Unauthorized
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&code_challenge=FLJFu_JEGQw0IGhwRp8oSonKYyBmBzAvytxbGemyzq8&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2%2Fhome%3FhashArgs%3D%2523InstanceDetails%253AinstanceId%253Di-05f153c2715676d6c%26isauthcode%3Dtrue%26oauthStart%3D1729396324160%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_aa0f4e5e232a7631
+--------------------------------------------------
+Time: 2024-10-20 09:52:06
+Title: Amazon Web Services Sign-In
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Images:visibility=owned-by-me;imageId=ami-04794712a571a992c;v=3;$case=tags:false%5C,client:false;$regex=tags:false%5C,client:false;sort=tag:Name
+--------------------------------------------------
+Time: 2024-10-20 09:52:07
+Title: Amazon Web Services Sign-In
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&code_challenge=9d6AU9l1TkelQ8PBKg0ikCy-qP1IHBsblAkp2ly_Hmc&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2%2Fhome%3FhashArgs%3D%2523Images%253Avisibility%253Downed-by-me%253BimageId%253Dami-04794712a571a992c%253Bv%253D3%253B%2524case%253Dtags%253Afalse%25255C%252Cclient%253Afalse%253B%2524regex%253Dtags%253Afalse%25255C%252Cclient%253Afalse%253Bsort%253Dtag%253AName%26isauthcode%3Dtrue%26oauthStart%3D1729396328297%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_c4ad3ad5362e9a87
+--------------------------------------------------
+Time: 2024-10-20 09:52:09
+Title: medi-archive | IAM | Global
+URL: https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/users/details/medi-archive?section=permissions
+--------------------------------------------------
+Time: 2024-10-20 09:52:10
+Title: medi-archive | IAM | Global
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fiamv2&code_challenge=DX63v2giIAAqjkAya_zTugvRZKxIR7N0bN2nz0PVPTw&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fiam%2Fhome%3FhashArgs%3D%2523%252Fusers%252Fdetails%252Fmedi-archive%253Fsection%253Dpermissions%26isauthcode%3Dtrue%26oauthStart%3D1729396330702%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_6547e767e9777466
+--------------------------------------------------
+Time: 2024-10-20 09:52:10
+Title: Amazon Web Services Sign-In
+URL: https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2%2Fhome%3FhashArgs%3D%2523Instances%253Av%253D3%253B%2524case%253Dtags%253Atrue%25255C%252Cclient%253Afalse%253B%2524regex%253Dtags%253Afalse%25255C%252Cclient%253Afalse%26isauthcode%3Dtrue%26oauthStart%3D1729396292328%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_58c8a3237c0d8c9e&forceMobileLayout=0&forceMobileApp=0&code_challenge=d8vbDZ2OTzUK_mSOAQTyRWdESaxEDqq26AHpSvt5AdU&code_challenge_method=SHA-256#
+--------------------------------------------------
+Time: 2024-10-20 09:52:10
+Title: Unauthorized
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Addresses:v=3;search=:3.225.115.237
+--------------------------------------------------
+Time: 2024-10-20 09:52:11
+Title: Manage AWS Resources - AWS Management Console - AWS
+URL: https://aws.amazon.com/console/
+--------------------------------------------------
+Time: 2024-10-20 09:52:11
+Title: Unauthorized
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?hashArgs=%23Addresses%3Av%3D3%3Bsearch%3D%3A3.225.115.237&isauthcode=true&oauthStart=1729396331674&region=us-east-1&state=hashArgsFromTB_us-east-1_9e8a54e3cdaedd4e&code=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..RI25VUSC8WDC3TmY.NgqYH-JsWhJ1Im2BZsV3pQwTo0qT0WGgU-AsKvcii2yRodkk8H0JMwvSNVqJ3AeE8f8ShA2lBLgqjh_p0vV1CUl7IFSAb-xvt5PIJqFZARwruSoBNCk3uPMCQOOriEcBakwFP_x1rto8v3aHiDSG6KxuYp_Hz-MNvUscYbhhDhdDTkkdBKhDLN_cOFpsNce9HZiXoONiR7FfP8EauRZM9DMtiynaLAlX7m6kZcUsB8iTNIGOfkfJOLBUeuvUK_bNxMf_OkpsxPjg3ogM2JQzvLrF_uuaEqMz_1eAYi_Xs83UzHGPP8SnkfccVTBt_M4br8evBuWjR82xKSt-7YEY4RkpUwBUCGljY_LGUpmbarHkCOC40F2kLBgB7yg3K77mNhfJ7L7F3QdTPHGT0532X55sIjll7RP1b9Gvr9s-7YAQmGtaoWh3dCIa0bN3jWpWWdzmaJqQ2RKwCneixS09DzM913KAajC1qp_A-0p8mHiIep-6bG8NuiVq2W5m4aL4L7x2LVdUF0NAdLgWDVXZxlNDuji6o1dyQN8dlRXST-ABuNoEZQvdKecapFYCqt12Tmtei_rkzPFmewZsjMnnSJZr3KpiaBu2LMGHx3m8KTboWu8hVA24-aTtvBrDUjZe8DS284fncPkPb0ad4SIrY7u4QOU04vn-T10Dcm9eVgK0chDv8QuOWjQ0ha_pW8SYB5-To18xlPuwTjUdIMDX4St93M9W_vy7OLfS_M1OKUbeZIde2p5d1myK6Aba6av3XyTb5HvevxfMW2XsPSuZilSOhFzHPgroOgzNJlXiTcf6OXpYhllMV1cPKW8TfGHOGMNm9jLbUTyoo0xqX1vPNOS9xsdZmg7PL3K4ECgMIYnpDsytoa9Vrvrlqx5YtJtax8pSo_AvLIHmtGOfds1MiFzRf2xdFnFv0ZHNZTuQ7ofYw_fhnIkX2ZRib_SwdcXoZ-RP49w9eo0XaKVtvyWdaqRDUKhGQN0TJBglzGYNHgkK-vlhzbPDoL65mAiRRt4BHSmFhknuf13ew9HyTbj7nPK295zuFQjVLJlBXhm14ffjbSIxhwXkbie-ED5VXmAneun2oiV_KMKASsgtIT5apxOLb7WiuhJuUl_TZ9du6gQyqC7dJukwY1djQFNlAeCOyFR9ZEeBHZWO53OFTdeNHUxSZYpu4rJPPy0h1pqXl-qPQaC1RciGg_0oHVZ0I2QU2xR5ifU_T9OFa5M71CEQgcRDv9yKbovY-Ugj4NoLMM-NA1CQybhutzINTltPfBrt84K7kmBaVq033D0xeg0ApDi0P6R4tcfj0tSQyYTJ2zRNP1E-rzjzkgNgQ1mJqtVRZnZTmBOq4WwX6nrG2hoARlliSS7ygboLdOlZYYBtFcN_onnWQHuSFWusuPQ10Fr8Q26TKGsIeySue21FIpeEJ1nCdE_g6A0O_LXMKdMb9stuvbwFsuqFVkGLzbQ15AtFq7kVHVlHceI6OyO4jxyPDgHiRuC15OUVCL9qEPc85-Hp17T7EQwiVmyBFDT562dG68PtCuwChsyvaR3N9E1RJIQ7QLrbALeyeIV4OQYK0-uvKvii0Jn1Btp4-tcptvMBnRCQ09Tydy5bAHYMLPu6CBzHQvoIpfqYdI1Scgy9qdo5j8hNdQBoSKp_MEj7E5S6qq4DBLsqwQ1dW6akJdQGf4MDWwmtjcxmnrmqrPjnXwne9GDoZwqe-2Jp9zaac938CYLy_iBitB6FPaROxEus3_J5yzBvXgbR7pfjo7TO4b7wVzyuXtS7DMzt3ZCtfgJ-USynRLdNCTeyBu35fbVhbyfeYUz7.lJ6CcMb8Idf-ZdtMiQUq_A
+--------------------------------------------------
+Time: 2024-10-20 09:52:13
+Title: CloudWatch | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/ec2-api-amarkagojpatro-logs/log-events/api-amarkagojpatro-gunicorn-error-logs
+--------------------------------------------------
+Time: 2024-10-20 09:52:15
+Title: CloudWatch | us-east-1
+URL: https://us-east-1.signin.aws.amazon.com/oauth?response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fcloudwatch%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523logsV2%253Alog-groups%252Flog-group%252Fec2-api-amarkagojpatro-logs%252Flog-events%252Fapi-amarkagojpatro-gunicorn-error-logs%26isauthcode%3Dtrue&code_challenge_method=SHA-256&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fcloudwatch&code_challenge=TqoA3UmXlZN1voiKv7QdN7KXWsSdbPzae4NixEDCtC8
+--------------------------------------------------
+Time: 2024-10-20 09:52:19
+Title: Amazon Web Services Sign-In
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&code_challenge=9d6AU9l1TkelQ8PBKg0ikCy-qP1IHBsblAkp2ly_Hmc&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2%2Fhome%3FhashArgs%3D%2523Images%253Avisibility%253Downed-by-me%253BimageId%253Dami-04794712a571a992c%253Bv%253D3%253B%2524case%253Dtags%253Afalse%25255C%252Cclient%253Afalse%253B%2524regex%253Dtags%253Afalse%25255C%252Cclient%253Afalse%253Bsort%253Dtag%253AName%26isauthcode%3Dtrue%26oauthStart%3D1729396328297%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_c4ad3ad5362e9a87
+--------------------------------------------------
+Time: 2024-10-20 09:52:31
+Title: Amazon Web Services Sign-In
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&code_challenge=9d6AU9l1TkelQ8PBKg0ikCy-qP1IHBsblAkp2ly_Hmc&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2%2Fhome%3FhashArgs%3D%2523Images%253Avisibility%253Downed-by-me%253BimageId%253Dami-04794712a571a992c%253Bv%253D3%253B%2524case%253Dtags%253Afalse%25255C%252Cclient%253Afalse%253B%2524regex%253Dtags%253Afalse%25255C%252Cclient%253Afalse%253Bsort%253Dtag%253AName%26isauthcode%3Dtrue%26oauthStart%3D1729396328297%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_c4ad3ad5362e9a87#
+--------------------------------------------------
+Time: 2024-10-20 09:52:46
+Title: Amazon Web Services Sign-In
+URL: https://signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&code_challenge=9d6AU9l1TkelQ8PBKg0ikCy-qP1IHBsblAkp2ly_Hmc&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fec2%2Fhome%3FhashArgs%3D%2523Images%253Avisibility%253Downed-by-me%253BimageId%253Dami-04794712a571a992c%253Bv%253D3%253B%2524case%253Dtags%253Afalse%25255C%252Cclient%253Afalse%253B%2524regex%253Dtags%253Afalse%25255C%252Cclient%253Afalse%253Bsort%253Dtag%253AName%26isauthcode%3Dtrue%26oauthStart%3D1729396328297%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_c4ad3ad5362e9a87#
+--------------------------------------------------
+Time: 2024-10-20 09:52:47
+Title: Unauthorized
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?hashArgs=%23Images%3Avisibility%3Downed-by-me%3BimageId%3Dami-04794712a571a992c%3Bv%3D3%3B%24case%3Dtags%3Afalse%255C%2Cclient%3Afalse%3B%24regex%3Dtags%3Afalse%255C%2Cclient%3Afalse%3Bsort%3Dtag%3AName&isauthcode=true&oauthStart=1729396328297&region=us-east-1&state=hashArgsFromTB_us-east-1_c4ad3ad5362e9a87&code=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..GuialGCYjzeMUptk.JjNb0lX0XpfbgJut_brOH-PpS7s6OIzjJmSAcVfHSyIn4eUVV4UhbQSowuS7A2AK4qhJQRpKyMNCfBnJ4UIcbBd5KXs4hyRyXp0UyV9ChxlXT3e5HW4yre6kJlfONSgZNzj5grGHCLNKzBWvdN-7w6d0lqhA-oJr5Viu7B5wK-BkjvBxaTafaBp3MSoZqkS6j4Ln--5xKlimx7iLPDqJl7uzn5ahokdtJEuHklWNVQuPMNWbsNqYOCCgpCVfWExVt1SxH1_rs8ePCYJJWPIiRvD7XFWZKygsWSbU6bkl-fDFiAheAsU7lVupEGzl3oQGwKN1B3jxmWXyi8HXzOmK-4xE0nk-HXeZMt6pTGBk6VxwRZvsCLPYcOS0f7Yyc5y5bpimwEBoB9qhNS5FPeA1681QmPnlw8c4f7tXPu5-b6gjwMGX7Mws3WgdtMQhF9AjDeNeHP9rtH_IgiK47HNSbUpB00aEzKVF5BZC6cyzF4anCdCnyysLv3mxVrxFpUGBBfSqxem5ZrQMXmJ8tF3rFFuNBIfqnMTlpiWKsWjEhKqU8fctCNunRPum8m7mxmUySXq1MPIZFjwv0hEwY256QQVw_LxkWbvtHmuiju5P33kVMMZ-sAnbvkHzFe5w-kC28wSKRuMG25j6rc9j7A2GZHTg0qH0Lf49sVpHj7kGPg0HmtPD91LOQkyVCXvNs-_mMMFRDqcgKIujD-x6XxqwIjSYLtJKjBLuok4vSnQh0EnkzfJGAb2Qv0pOTMy3MDWmzgb2UE3OyhGzfTsB5tnmdVbUm31JdSD-IZdMLEXju1RvA3k5biUiKZ-a6qcQWzu0ENHtPDNGsXp2xkMbdCBX9dfq44vrJ5yVGUQikIhfmpct-1momJ4l-zZezqclLI-e0-rTjQgLHnsljS0QQEvWgRU-NHawXnWcnHBcO9wAQR1pTcjJFo68gEx441HJdVBhYhJQMgY9urZsI97Zes0j9tPmQUZjhLU0vWG7mOt5B2nlEU7MUsOesFHN5RaBYgkknpz5Bd0ljHu_s5rd4dHW_CUIevpZ2T9Ow1N-UtxCSqHy7v0YE1BgL5n3DFdq9SAXI86y94sMhiGew_UqJ-GBL0OyxmkD_lNlHo9ALLCLTwpSVOZfZxYoy8p_VG6FlinqqNNRnjGXIc5WK9TFIqZ6rya9bGb6r8ERIivGgoo9VijUnwnQPe6XS3DrSa8BmjCRIKHeSurz_hg7YP2QofpGhnQsmVzsR0MHnQksGHmaA_UXYlvW0r4gKXA7ucjJUdm43eMMKdg6I06YO9filpFAvgrgBbGSZ8LRuumc2FYvQY6rkQShnkhj6Gp7G7ZlDa7kwAcCq40-mjPrRnDaeNfYzyuYNGl2VZ4M5E1OIpmuzscXx1jlXWqF399S14f8g1HD2GNTbiEZsls6OVHPBjl7FihK6_tDef6tqIOuojG5ADO9etTnA-NWNPPV_rIgqnkNNNjQ-1BmfusUG9fTANjjr900_xnAPK2vtUYNJ83NLe2wx21M5bPzQomm5zyio3-29b0ONiadRxfypQRmzFs2f6CMYQ9SiXY3PuvyeoU3k14XhS6PqOEhMDMsBbsBeIlITt5fIUL0zkVguMStBty7m1jvQ7vsO1XWleR14ODE32d8shrVl7l0JYE3bkesQb_TqUzW21LSW1KOXfvQDuMlWsK6o1R-iL3ZvkaoRwonirJYKADEsFiqrSCXyXALN5q6v8U3GZ7qn1dL2bwF7EH6ztWlDQ21KteNGV7iu_aRTM0dlfLCoL7Fw6NW6_kJdfzOAsMBYl8VVUcRx_uveqr1JFEinYem.aA9JbEvSVdLFkYxIc5FGFQ
+--------------------------------------------------
+Time: 2024-10-20 09:52:50
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home
+--------------------------------------------------
+Time: 2024-10-20 09:52:50
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 09:52:52
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 09:52:58
+Title: EC2 Instance Connect
+URL: https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?addressFamily=ipv4&connType=standard&instanceId=i-0bd2d4e7fdc7b1659&osUser=ubuntu&region=us-east-1&sshPort=22#/
+--------------------------------------------------
+Time: 2024-10-20 09:52:59
+Title: Unauthorized
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?hashArgs=%23InstanceDetails%3AinstanceId%3Di-05f153c2715676d6c&isauthcode=true&oauthStart=1729396324160&region=us-east-1&state=hashArgsFromTB_us-east-1_aa0f4e5e232a7631&code=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..HL__qUEftPtgIooR.mp75MH3YEwmRfWWN_GD2fXzYi5SzplkYfxzB58HipxkEUeLPd5hBltiePj50jsRdN3wctnologpsaF9VnIbkZ_s42T53P4HOzef8ytpfEnYnkYj4JYDvrBLebRW5GO7hstSPuyBat53PFjCqLkaw2bB5XGC6qf17o6eq0nRWeX5xJOwu_2cQ0H8GD6IVwh42ngF-fXXxSuNFSVFyYCXBBvbPaKYnoy7UVM5I6Iq71aQLp0Ipk_tfCh8ArekcuCBCfXHvkRf97IOqY6W73ZFVxDZ4KyHLcMKKvCkQz4fjI6KOUC0pK6d8TEo0ooLEGlZK6i9phZY0S6Yw9XdBlVxkp46mzwSGCElZwUUIt9ZsaF2K5EZOZqdhzoqVFvohh1C0IUhV3gEeUXHE3K5akfiiW97a3jwyzACnpgsWV-_ERn8-_0nhRTXN0ICHYcbNVJ43DI9_jFfFFp77sLBgxL8V8l0Y_b6KX_jCozdC-TucW0N1-fewGwM3SQXawe8U0PtmK5ssGDxK53a3eMZa_5jcLFINBQFjmtnfTT7LPICr_WitSxW_dLgQ9selkbkIou7Re_efDJGrgQHyVSLwYnD2n6kfpcSHSvScR7EJBV3wSpmXdZGCXVMyRVqPPywpn2crlU0pRLEhMTaJUWZ_ZoOhgfGcEEVayom0IfC3_afgr36UYSxvCG98CsPuhJwT01DKYfOdkI_nvtcqWH5L8gMniOzN-ZCB9GcKyNZ9pMR8_bVPgvgyPPDmgVSs9ZW90myRyQ9LD5DGKNQ8TgGgRbSPXmp3_1aIYNYX1YB1CIgMNv4r9XlB4AjVlSURrBrYPtQKhsl6gLVSsgJZCt04h3_TYkjIq0xKXviPWerAp7h2oAzZFdA-JHuQNxu3E6ipnanZztXhZvbRy34gXu-8mP8i-ahs-BHOSc5xgpmv6610LLqp9wMiRGt4oAg8XmhHLUOg2VX7JKertT--0vJSKzPDzL3Y6-0Ses2KDuq9h9KKYav0hspkHkTe59gO9Apqi-eZ-UfjCXCjfTv-Mlrgmb4qLwJeKZbMqmQAquQ2pFjXG3Tkgg-mgFiTZbZdtPNFtrMCh4avHAFq1U7QAJrxrfNcvF94au4Dq7Ng8FfKr0bj8bTjS1GfptyVu5-yx0FCxG19qMuFjqlztd7IuQ8HQ2wNpKFKdU8JDOd4W0RWsqQj4-O_CocnTXyf3sAGlxnVJuMIA4bRr34v55iTEn3TAHKX-ZTk9N6GyenTS6Eu_bgz9gpbkaBY0T-xOiVdOi-zqmfExdLzTIkAaNLVU2fL4ew0cGQcKYD7r-3M0gRoighgKOD25Fs47xoTK221Y7o0Kegg-P5YXbcebvhZ49OH0xwiaqoBqlt2zDbhXG8Jbp-tRaCsTf958eecMSwhHIBfIS0rC4R2aEum5QVX6UEnANKJBHPDDn7EaDcb3ZrhIndaky8iDH93b3VlVCzxWPl7VoZu9-4ha-GGuwPAoXB1mulEmqWOANQWvfZveCYrD-ESxpjxPZA0PmJzwwFeVGVCPo994qDmrFLF86q1Lqjj5tHfgz6dyryC49pA6TwjP_V6v6qi0zrYZ0fA5k9POqLzM2QH6jx7DVoDY7HJp_6Z5lm3E2Y_RtovSTekPaSRLfhaOvhwml4zrnLKHmHSQpHSwnepKGRf67KZw2x-TFrTyZentjv06YfPv1Jyy-f62VzXVl47G2ZKMOJ3-QucS_yJrGRm9atY452cpyvlewlrMYpUGkYU8z77YUXSQpSEzBewZ_0aN7eIIYhkjZOCZ4SustQfcRU71lqIG2FP6iO_jChQ-Lh1.jBdXhwc6anrrjGThBqK3PQ
+--------------------------------------------------
+Time: 2024-10-20 09:53:01
+Title: Unauthorized
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?hashArgs=%23InstanceDetails%3AinstanceId%3Di-05f153c2715676d6c&isauthcode=true&oauthStart=1729396324160&region=us-east-1&state=hashArgsFromTB_us-east-1_aa0f4e5e232a7631&code=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..HL__qUEftPtgIooR.mp75MH3YEwmRfWWN_GD2fXzYi5SzplkYfxzB58HipxkEUeLPd5hBltiePj50jsRdN3wctnologpsaF9VnIbkZ_s42T53P4HOzef8ytpfEnYnkYj4JYDvrBLebRW5GO7hstSPuyBat53PFjCqLkaw2bB5XGC6qf17o6eq0nRWeX5xJOwu_2cQ0H8GD6IVwh42ngF-fXXxSuNFSVFyYCXBBvbPaKYnoy7UVM5I6Iq71aQLp0Ipk_tfCh8ArekcuCBCfXHvkRf97IOqY6W73ZFVxDZ4KyHLcMKKvCkQz4fjI6KOUC0pK6d8TEo0ooLEGlZK6i9phZY0S6Yw9XdBlVxkp46mzwSGCElZwUUIt9ZsaF2K5EZOZqdhzoqVFvohh1C0IUhV3gEeUXHE3K5akfiiW97a3jwyzACnpgsWV-_ERn8-_0nhRTXN0ICHYcbNVJ43DI9_jFfFFp77sLBgxL8V8l0Y_b6KX_jCozdC-TucW0N1-fewGwM3SQXawe8U0PtmK5ssGDxK53a3eMZa_5jcLFINBQFjmtnfTT7LPICr_WitSxW_dLgQ9selkbkIou7Re_efDJGrgQHyVSLwYnD2n6kfpcSHSvScR7EJBV3wSpmXdZGCXVMyRVqPPywpn2crlU0pRLEhMTaJUWZ_ZoOhgfGcEEVayom0IfC3_afgr36UYSxvCG98CsPuhJwT01DKYfOdkI_nvtcqWH5L8gMniOzN-ZCB9GcKyNZ9pMR8_bVPgvgyPPDmgVSs9ZW90myRyQ9LD5DGKNQ8TgGgRbSPXmp3_1aIYNYX1YB1CIgMNv4r9XlB4AjVlSURrBrYPtQKhsl6gLVSsgJZCt04h3_TYkjIq0xKXviPWerAp7h2oAzZFdA-JHuQNxu3E6ipnanZztXhZvbRy34gXu-8mP8i-ahs-BHOSc5xgpmv6610LLqp9wMiRGt4oAg8XmhHLUOg2VX7JKertT--0vJSKzPDzL3Y6-0Ses2KDuq9h9KKYav0hspkHkTe59gO9Apqi-eZ-UfjCXCjfTv-Mlrgmb4qLwJeKZbMqmQAquQ2pFjXG3Tkgg-mgFiTZbZdtPNFtrMCh4avHAFq1U7QAJrxrfNcvF94au4Dq7Ng8FfKr0bj8bTjS1GfptyVu5-yx0FCxG19qMuFjqlztd7IuQ8HQ2wNpKFKdU8JDOd4W0RWsqQj4-O_CocnTXyf3sAGlxnVJuMIA4bRr34v55iTEn3TAHKX-ZTk9N6GyenTS6Eu_bgz9gpbkaBY0T-xOiVdOi-zqmfExdLzTIkAaNLVU2fL4ew0cGQcKYD7r-3M0gRoighgKOD25Fs47xoTK221Y7o0Kegg-P5YXbcebvhZ49OH0xwiaqoBqlt2zDbhXG8Jbp-tRaCsTf958eecMSwhHIBfIS0rC4R2aEum5QVX6UEnANKJBHPDDn7EaDcb3ZrhIndaky8iDH93b3VlVCzxWPl7VoZu9-4ha-GGuwPAoXB1mulEmqWOANQWvfZveCYrD-ESxpjxPZA0PmJzwwFeVGVCPo994qDmrFLF86q1Lqjj5tHfgz6dyryC49pA6TwjP_V6v6qi0zrYZ0fA5k9POqLzM2QH6jx7DVoDY7HJp_6Z5lm3E2Y_RtovSTekPaSRLfhaOvhwml4zrnLKHmHSQpHSwnepKGRf67KZw2x-TFrTyZentjv06YfPv1Jyy-f62VzXVl47G2ZKMOJ3-QucS_yJrGRm9atY452cpyvlewlrMYpUGkYU8z77YUXSQpSEzBewZ_0aN7eIIYhkjZOCZ4SustQfcRU71lqIG2FP6iO_jChQ-Lh1.jBdXhwc6anrrjGThBqK3PQ
+--------------------------------------------------
+Time: 2024-10-20 09:53:03
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home
+--------------------------------------------------
+Time: 2024-10-20 09:53:04
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 09:53:07
+Title: medi-archive | IAM | Global
+URL: https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/users/details/medi-archive?section=permissions
+--------------------------------------------------
+Time: 2024-10-20 09:53:09
+Title: amarkagojpatro.com - details
+URL: https://us-east-1.console.aws.amazon.com/route53/v2/hostedzones?region=us-east-1#ListRecordSets/Z01458091LKLEQ84ISNMA
+--------------------------------------------------
+Time: 2024-10-20 09:53:11
+Title: medi-archive - S3 bucket | S3 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/s3/buckets/medi-archive?bucketType=general&region=us-east-1&tab=objects#
+--------------------------------------------------
+Time: 2024-10-20 09:53:13
+Title: CloudWatch | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/ec2-api-amarkagojpatro-logs/log-events/api-amarkagojpatro-gunicorn-error-logs
+--------------------------------------------------
+Time: 2024-10-20 09:53:14
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills
+--------------------------------------------------
+Time: 2024-10-20 09:53:17
+Title: AWS Pricing Calculator
+URL: https://calculator.aws/#/createCalculator/ec2-enhancement
+--------------------------------------------------
+Time: 2024-10-20 09:54:31
+Title: YouTube
+URL: https://www.youtube.com/watch?v=yWU8ynQ_tKs
+--------------------------------------------------
+Time: 2024-10-20 09:54:33
+Title: Browser History using Python - YouTube
+URL: https://www.youtube.com/watch?v=yWU8ynQ_tKs&ab_channel=AsimCode
+--------------------------------------------------
+Time: 2024-10-20 10:00:21
+Title: ChatGPT
+URL: https://chatgpt.com/
+--------------------------------------------------
+Time: 2024-10-20 10:01:02
+Title: ChatGPT
+URL: https://chatgpt.com/c/6714807f-8d68-8004-b978-48531dda7de7
+--------------------------------------------------
+Time: 2024-10-20 10:07:49
+Title: docker hub wordpress - Google Search
+URL: https://www.google.com/search?q=docker+hub+wordpress&oq=docker+hub+wordpres&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yDQgGEAAYhgMYgAQYigUyDQgHEAAYhgMYgAQYigUyDQgIEAAYhgMYgAQYigUyDQgJEAAYhgMYgAQYigXSAQg2MTkyajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 10:07:51
+Title: hub.docker.com/_/wordpress
+URL: https://hub.docker.com/_/wordpress
+--------------------------------------------------
+Time: 2024-10-20 10:07:51
+Title: hub.docker.com/_/wordpress
+URL: https://hub.docker.com/_/wordpress
+--------------------------------------------------
+Time: 2024-10-20 10:07:52
+Title: hub.docker.com/_/wordpress
+URL: https://hub.docker.com/_/wordpress
+--------------------------------------------------
+Time: 2024-10-20 10:30:55
+Title: WordPress › Installation
+URL: http://localhost:8080/wp-admin/install.php
+--------------------------------------------------
+Time: 2024-10-20 10:30:59
+Title: WordPress › Installation
+URL: http://localhost:8080/wp-admin/install.php?step=1
+--------------------------------------------------
+Time: 2024-10-20 10:31:55
+Title: WordPress › Installation
+URL: http://localhost:8080/wp-admin/install.php?step=2
+--------------------------------------------------
+Time: 2024-10-20 10:32:00
+Title: Log In ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-login.php
+--------------------------------------------------
+Time: 2024-10-20 10:32:12
+Title: Dashboard ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/
+--------------------------------------------------
+Time: 2024-10-20 10:32:13
+Title: Dashboard ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/
+--------------------------------------------------
+Time: 2024-10-20 10:32:28
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:32:28
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:32:33
+Title: Akismet Anti-spam ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php?page=akismet-key-config&view=start
+--------------------------------------------------
+Time: 2024-10-20 10:32:34
+Title: Akismet Anti-spam ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php?page=akismet-key-config&view=start
+--------------------------------------------------
+Time: 2024-10-20 10:32:40
+Title: Pricing – Akismet
+URL: https://akismet.com/pricing/
+--------------------------------------------------
+Time: 2024-10-20 10:32:43
+Title: General Settings ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php
+--------------------------------------------------
+Time: 2024-10-20 10:32:43
+Title: General Settings ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php
+--------------------------------------------------
+Time: 2024-10-20 10:32:47
+Title: Add Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugin-install.php
+--------------------------------------------------
+Time: 2024-10-20 10:32:47
+Title: Add Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugin-install.php
+--------------------------------------------------
+Time: 2024-10-20 10:32:56
+Title: Add Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugin-install.php?tab=popular
+--------------------------------------------------
+Time: 2024-10-20 10:32:56
+Title: Add Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugin-install.php?tab=popular
+--------------------------------------------------
+Time: 2024-10-20 10:33:19
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php?activate=true&plugin_status=all&paged=1&s=
+--------------------------------------------------
+Time: 2024-10-20 10:33:19
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php?plugin_status=all&paged=1&s
+--------------------------------------------------
+Time: 2024-10-20 10:33:31
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:31
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:35
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:35
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:38
+Title: Akismet Anti-spam ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php?page=akismet-key-config
+--------------------------------------------------
+Time: 2024-10-20 10:33:38
+Title: Akismet Anti-spam ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php?page=akismet-key-config
+--------------------------------------------------
+Time: 2024-10-20 10:33:41
+Title: General Settings ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:41
+Title: General Settings ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:42
+Title: Tools ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/tools.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:42
+Title: Tools ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/tools.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:43
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:43
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:49
+Title: Dashboard ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/index.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:49
+Title: Dashboard ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/index.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:53
+Title: Posts ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/edit.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:53
+Title: Posts ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/edit.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:54
+Title: Categories ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/edit-tags.php?taxonomy=category
+--------------------------------------------------
+Time: 2024-10-20 10:33:54
+Title: Categories ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/edit-tags.php?taxonomy=category
+--------------------------------------------------
+Time: 2024-10-20 10:33:58
+Title: Media Library ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/upload.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:58
+Title: Media Library ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/upload.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:59
+Title: Comments ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/edit-comments.php
+--------------------------------------------------
+Time: 2024-10-20 10:33:59
+Title: Comments ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/edit-comments.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:00
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:00
+Title: Plugins ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/plugins.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:02
+Title: Site Health - Status ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/site-health.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:02
+Title: Site Health - Status ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/site-health.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:02
+Title: Tools ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/tools.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:02
+Title: Tools ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/tools.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:03
+Title: Site Health - Status ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/site-health.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:03
+Title: Site Health - Status ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/site-health.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:07
+Title: General Settings ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:07
+Title: General Settings ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/options-general.php
+--------------------------------------------------
+Time: 2024-10-20 10:34:37
+Title: Inbox - sorkerlimon21@gmail.com - Gmail
+URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl
+--------------------------------------------------
+Time: 2024-10-20 10:34:46
+Title: EC2 Instance Connect
+URL: https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?addressFamily=ipv4&connType=standard&instanceId=i-0bd2d4e7fdc7b1659&osUser=ubuntu&region=us-east-1&sshPort=22#/
+--------------------------------------------------
+Time: 2024-10-20 10:34:49
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 10:34:51
+Title: CloudWatch | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/ec2-api-amarkagojpatro-logs/log-events/api-amarkagojpatro-gunicorn-error-logs
+--------------------------------------------------
+Time: 2024-10-20 10:35:13
+Title: CloudWatch | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/ec2-api-amarkagojpatro-logs
+--------------------------------------------------
+Time: 2024-10-20 10:35:13
+Title: CloudWatch | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/ec2-api-amarkagojpatro-logs
+--------------------------------------------------
+Time: 2024-10-20 10:35:24
+Title: CloudWatch | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/ec2-api-amarkagojpatro-logs/log-events/api-amarkagojpatro-gunicorn-error-logs
+--------------------------------------------------
+Time: 2024-10-20 10:35:34
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 10:35:44
+Title: Home | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 10:35:46
+Title: Home | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 10:35:46
+Title: Home | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Home:
+--------------------------------------------------
+Time: 2024-10-20 10:35:52
+Title: Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:instanceState=running
+--------------------------------------------------
+Time: 2024-10-20 10:35:53
+Title: Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:instanceState=running
+--------------------------------------------------
+Time: 2024-10-20 10:37:20
+Title: TechnoBD
+URL: http://localhost:8080/
+--------------------------------------------------
+Time: 2024-10-20 10:37:29
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php
+--------------------------------------------------
+Time: 2024-10-20 10:37:29
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php
+--------------------------------------------------
+Time: 2024-10-20 10:37:36
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php
+--------------------------------------------------
+Time: 2024-10-20 10:37:37
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php
+--------------------------------------------------
+Time: 2024-10-20 10:37:37
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php
+--------------------------------------------------
+Time: 2024-10-20 10:37:41
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php
+--------------------------------------------------
+Time: 2024-10-20 10:37:41
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:20
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php?wp_theme_preview=twentytwentythree&return=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fthemes.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:20
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php?wp_theme_preview=twentytwentythree&return=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fthemes.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:20
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php?wp_theme_preview=twentytwentythree&return=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fthemes.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:25
+Title: Dashboard ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/index.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:25
+Title: Dashboard ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/index.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:38
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:38
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:41
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php?theme=twentytwentytwo
+--------------------------------------------------
+Time: 2024-10-20 10:40:43
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:45
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php
+--------------------------------------------------
+Time: 2024-10-20 10:40:45
+Title: Themes ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/themes.php?activated=true
+--------------------------------------------------
+Time: 2024-10-20 10:40:49
+Title: TechnoBD
+URL: http://localhost:8080/
+--------------------------------------------------
+Time: 2024-10-20 10:40:56
+Title: Dashboard ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/
+--------------------------------------------------
+Time: 2024-10-20 10:40:57
+Title: Dashboard ‹ TechnoBD — WordPress
+URL: http://localhost:8080/wp-admin/
+--------------------------------------------------
+Time: 2024-10-20 10:41:03
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php?return=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fthemes.php
+--------------------------------------------------
+Time: 2024-10-20 10:41:03
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php?return=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fthemes.php
+--------------------------------------------------
+Time: 2024-10-20 10:41:03
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php?return=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fthemes.php
+--------------------------------------------------
+Time: 2024-10-20 10:41:08
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php?postType=page
+--------------------------------------------------
+Time: 2024-10-20 10:41:10
+Title: Blog Home ‹ Template ‹ TechnoBD ‹ Editor — WordPress
+URL: http://localhost:8080/wp-admin/site-editor.php?postType=page&activeView=drafts
+--------------------------------------------------
+Time: 2024-10-20 10:41:15
+Title: Separating Clock Timer Functionality into Reusable Class - Claude
+URL: https://claude.ai/chat/41da495a-8ae7-41ec-8532-bc84935db8a7
+--------------------------------------------------
+Time: 2024-10-20 10:41:32
+Title: medi-archive | IAM | Global
+URL: https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/users/details/medi-archive?section=permissions
+--------------------------------------------------
+Time: 2024-10-20 10:41:33
+Title: Unauthorized
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?hashArgs=%23Addresses%3Av%3D3%3Bsearch%3D%3A3.225.115.237&isauthcode=true&oauthStart=1729396331674&region=us-east-1&state=hashArgsFromTB_us-east-1_9e8a54e3cdaedd4e&code=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..RI25VUSC8WDC3TmY.NgqYH-JsWhJ1Im2BZsV3pQwTo0qT0WGgU-AsKvcii2yRodkk8H0JMwvSNVqJ3AeE8f8ShA2lBLgqjh_p0vV1CUl7IFSAb-xvt5PIJqFZARwruSoBNCk3uPMCQOOriEcBakwFP_x1rto8v3aHiDSG6KxuYp_Hz-MNvUscYbhhDhdDTkkdBKhDLN_cOFpsNce9HZiXoONiR7FfP8EauRZM9DMtiynaLAlX7m6kZcUsB8iTNIGOfkfJOLBUeuvUK_bNxMf_OkpsxPjg3ogM2JQzvLrF_uuaEqMz_1eAYi_Xs83UzHGPP8SnkfccVTBt_M4br8evBuWjR82xKSt-7YEY4RkpUwBUCGljY_LGUpmbarHkCOC40F2kLBgB7yg3K77mNhfJ7L7F3QdTPHGT0532X55sIjll7RP1b9Gvr9s-7YAQmGtaoWh3dCIa0bN3jWpWWdzmaJqQ2RKwCneixS09DzM913KAajC1qp_A-0p8mHiIep-6bG8NuiVq2W5m4aL4L7x2LVdUF0NAdLgWDVXZxlNDuji6o1dyQN8dlRXST-ABuNoEZQvdKecapFYCqt12Tmtei_rkzPFmewZsjMnnSJZr3KpiaBu2LMGHx3m8KTboWu8hVA24-aTtvBrDUjZe8DS284fncPkPb0ad4SIrY7u4QOU04vn-T10Dcm9eVgK0chDv8QuOWjQ0ha_pW8SYB5-To18xlPuwTjUdIMDX4St93M9W_vy7OLfS_M1OKUbeZIde2p5d1myK6Aba6av3XyTb5HvevxfMW2XsPSuZilSOhFzHPgroOgzNJlXiTcf6OXpYhllMV1cPKW8TfGHOGMNm9jLbUTyoo0xqX1vPNOS9xsdZmg7PL3K4ECgMIYnpDsytoa9Vrvrlqx5YtJtax8pSo_AvLIHmtGOfds1MiFzRf2xdFnFv0ZHNZTuQ7ofYw_fhnIkX2ZRib_SwdcXoZ-RP49w9eo0XaKVtvyWdaqRDUKhGQN0TJBglzGYNHgkK-vlhzbPDoL65mAiRRt4BHSmFhknuf13ew9HyTbj7nPK295zuFQjVLJlBXhm14ffjbSIxhwXkbie-ED5VXmAneun2oiV_KMKASsgtIT5apxOLb7WiuhJuUl_TZ9du6gQyqC7dJukwY1djQFNlAeCOyFR9ZEeBHZWO53OFTdeNHUxSZYpu4rJPPy0h1pqXl-qPQaC1RciGg_0oHVZ0I2QU2xR5ifU_T9OFa5M71CEQgcRDv9yKbovY-Ugj4NoLMM-NA1CQybhutzINTltPfBrt84K7kmBaVq033D0xeg0ApDi0P6R4tcfj0tSQyYTJ2zRNP1E-rzjzkgNgQ1mJqtVRZnZTmBOq4WwX6nrG2hoARlliSS7ygboLdOlZYYBtFcN_onnWQHuSFWusuPQ10Fr8Q26TKGsIeySue21FIpeEJ1nCdE_g6A0O_LXMKdMb9stuvbwFsuqFVkGLzbQ15AtFq7kVHVlHceI6OyO4jxyPDgHiRuC15OUVCL9qEPc85-Hp17T7EQwiVmyBFDT562dG68PtCuwChsyvaR3N9E1RJIQ7QLrbALeyeIV4OQYK0-uvKvii0Jn1Btp4-tcptvMBnRCQ09Tydy5bAHYMLPu6CBzHQvoIpfqYdI1Scgy9qdo5j8hNdQBoSKp_MEj7E5S6qq4DBLsqwQ1dW6akJdQGf4MDWwmtjcxmnrmqrPjnXwne9GDoZwqe-2Jp9zaac938CYLy_iBitB6FPaROxEus3_J5yzBvXgbR7pfjo7TO4b7wVzyuXtS7DMzt3ZCtfgJ-USynRLdNCTeyBu35fbVhbyfeYUz7.lJ6CcMb8Idf-ZdtMiQUq_A
+--------------------------------------------------
+Time: 2024-10-20 10:41:35
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home
+--------------------------------------------------
+Time: 2024-10-20 10:41:36
+Title: Console Home | Console Home | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 10:41:46
+Title: Home | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 10:41:49
+Title: Home | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 10:41:50
+Title: Home | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Home:
+--------------------------------------------------
+Time: 2024-10-20 10:43:13
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 10:43:51
+Title: AWS Pricing Calculator
+URL: https://calculator.aws/#/createCalculator/ec2-enhancement
+--------------------------------------------------
+Time: 2024-10-20 10:43:53
+Title: Compute – Amazon EC2 Instance Types – AWS
+URL: https://aws.amazon.com/ec2/instance-types/?gclid=CjwKCAjw68K4BhAuEiwAylp3kpHvyN7egmU7y6C6n9tbHvaBxkN59b_eMROP8WzqxY1-YmAG89XH4RoCopQQAvD_BwE&trk=32f4fbd0-ffda-4695-a60c-8857fab7d0dd&sc_channel=ps&ef_id=CjwKCAjw68K4BhAuEiwAylp3kpHvyN7egmU7y6C6n9tbHvaBxkN59b_eMROP8WzqxY1-YmAG89XH4RoCopQQAvD_BwE:G:s&s_kwcid=AL!4422!3!536396490415!p!!g!!ec2%20cloud%20computing!11539707735!118057053248
+--------------------------------------------------
+Time: 2024-10-20 10:44:33
+Title: YouTube
+URL: https://www.youtube.com/watch?v=pj9IRZOR8Lk
+--------------------------------------------------
+Time: 2024-10-20 10:44:34
+Title: YouTube
+URL: https://www.youtube.com/watch?v=pj9IRZOR8Lk
+--------------------------------------------------
+Time: 2024-10-20 10:44:34
+Title: Israel vs Bangladesh Military Power Comparison 2023 | Bangladesh vs Israel | world military power - YouTube
+URL: https://www.youtube.com/watch?v=pj9IRZOR8Lk&ab_channel=WorldMilitaryPower
+--------------------------------------------------
+Time: 2024-10-20 10:44:34
+Title: Israel vs Bangladesh Military Power Comparison 2023 | Bangladesh vs Israel | world military power - YouTube
+URL: https://www.youtube.com/watch?v=pj9IRZOR8Lk&ab_channel=WorldMilitaryPower
+--------------------------------------------------
+Time: 2024-10-20 10:45:09
+Title: Israel vs Bangladesh Military Power Comparison 2023 | Bangladesh vs Israel | world military power - YouTube
+URL: https://www.youtube.com/watch?v=pj9IRZOR8Lk&ab_channel=WorldMilitaryPower
+--------------------------------------------------
+Time: 2024-10-20 10:45:30
+Title: YouTube
+URL: https://www.youtube.com/watch?v=pj9IRZOR8Lk
+--------------------------------------------------
+Time: 2024-10-20 10:45:30
+Title: Israel vs Bangladesh Military Power Comparison 2023 | Bangladesh vs Israel | world military power - YouTube
+URL: https://www.youtube.com/watch?v=pj9IRZOR8Lk&ab_channel=WorldMilitaryPower
+--------------------------------------------------
+Time: 2024-10-20 10:52:25
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 11:03:54
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills
+--------------------------------------------------
+Time: 2024-10-20 11:04:21
+Title: Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:instanceState=running
+--------------------------------------------------
+Time: 2024-10-20 11:04:22
+Title: Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:instanceState=running;sort=instanceState
+--------------------------------------------------
+Time: 2024-10-20 11:04:48
+Title: Reserved Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ReservedInstances:
+--------------------------------------------------
+Time: 2024-10-20 11:04:49
+Title: Reserved Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ReservedInstances:
+--------------------------------------------------
+Time: 2024-10-20 11:04:49
+Title: Reserved Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ReservedInstances:
+--------------------------------------------------
+Time: 2024-10-20 11:06:15
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:
+--------------------------------------------------
+Time: 2024-10-20 11:07:24
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 11:07:27
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ConnectToInstance:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 11:07:27
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ConnectToInstance:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 11:07:35
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 11:07:36
+Title: EC2 Instance Connect
+URL: https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?region=us-east-1&connType=standard&instanceId=i-0bd2d4e7fdc7b1659&osUser=ubuntu&sshPort=22&addressFamily=ipv4
+--------------------------------------------------
+Time: 2024-10-20 11:07:37
+Title: EC2 Instance Connect
+URL: https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?region=us-east-1&connType=standard&instanceId=i-0bd2d4e7fdc7b1659&osUser=ubuntu&sshPort=22&addressFamily=ipv4#/
+--------------------------------------------------
+Time: 2024-10-20 11:15:59
+Title: Instances | EC2 | us-west-1
+URL: https://us-west-1.console.aws.amazon.com/ec2/home?region=us-west-1#InstanceDetails:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 11:16:02
+Title: Instances | EC2 | us-west-1
+URL: https://us-west-1.console.aws.amazon.com/ec2/home?region=us-west-1#InstanceDetails:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 11:16:08
+Title: Instances | EC2 | us-west-1
+URL: https://us-west-1.console.aws.amazon.com/ec2/home?region=us-west-1#Instances:
+--------------------------------------------------
+Time: 2024-10-20 11:16:08
+Title: Instances | EC2 | us-west-1
+URL: https://us-west-1.console.aws.amazon.com/ec2/home?region=us-west-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false
+--------------------------------------------------
+Time: 2024-10-20 11:16:16
+Title: InstanceTypes | EC2 | us-west-1
+URL: https://us-west-1.console.aws.amazon.com/ec2/home?region=us-west-1#InstanceTypes:
+--------------------------------------------------
+Time: 2024-10-20 11:16:17
+Title: InstanceTypes | EC2 | us-west-1
+URL: https://us-west-1.console.aws.amazon.com/ec2/home?region=us-west-1#InstanceTypes:
+--------------------------------------------------
+Time: 2024-10-20 11:22:44
+Title: Home | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpc/home?region=us-west-1
+--------------------------------------------------
+Time: 2024-10-20 11:22:45
+Title: Home | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpc/home?region=us-west-1#
+--------------------------------------------------
+Time: 2024-10-20 11:22:46
+Title: Home | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#
+--------------------------------------------------
+Time: 2024-10-20 11:22:47
+Title: Home | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#
+--------------------------------------------------
+Time: 2024-10-20 11:22:48
+Title: Home | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#Home:
+--------------------------------------------------
+Time: 2024-10-20 11:22:51
+Title: vpcs | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#vpcs:
+--------------------------------------------------
+Time: 2024-10-20 11:22:51
+Title: vpcs | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#vpcs:
+--------------------------------------------------
+Time: 2024-10-20 11:22:51
+Title: vpcs | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#vpcs:
+--------------------------------------------------
+Time: 2024-10-20 11:23:14
+Title: RouteTables | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#RouteTables:
+--------------------------------------------------
+Time: 2024-10-20 11:23:14
+Title: RouteTables | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#RouteTables:
+--------------------------------------------------
+Time: 2024-10-20 11:23:44
+Title: subnets | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#subnets:
+--------------------------------------------------
+Time: 2024-10-20 11:23:44
+Title: subnets | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#subnets:
+--------------------------------------------------
+Time: 2024-10-20 11:23:44
+Title: subnets | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#subnets:
+--------------------------------------------------
+Time: 2024-10-20 11:24:01
+Title: RouteTables | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#RouteTables:
+--------------------------------------------------
+Time: 2024-10-20 11:24:01
+Title: RouteTables | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#RouteTables:
+--------------------------------------------------
+Time: 2024-10-20 11:24:01
+Title: igws | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#igws:
+--------------------------------------------------
+Time: 2024-10-20 11:24:01
+Title: igws | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#igws:
+--------------------------------------------------
+Time: 2024-10-20 11:24:08
+Title: NatGateways | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#NatGateways:
+--------------------------------------------------
+Time: 2024-10-20 11:24:12
+Title: NatGateways | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#NatGateways:
+--------------------------------------------------
+Time: 2024-10-20 11:24:17
+Title: vpcs | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#vpcs:
+--------------------------------------------------
+Time: 2024-10-20 11:24:17
+Title: vpcs | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#vpcs:
+--------------------------------------------------
+Time: 2024-10-20 11:24:19
+Title: RouteTables | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#RouteTables:
+--------------------------------------------------
+Time: 2024-10-20 11:24:19
+Title: RouteTables | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#RouteTables:
+--------------------------------------------------
+Time: 2024-10-20 11:24:19
+Title: subnets | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#subnets:
+--------------------------------------------------
+Time: 2024-10-20 11:24:19
+Title: subnets | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#subnets:
+--------------------------------------------------
+Time: 2024-10-20 11:24:19
+Title: subnets | VPC Console
+URL: https://us-west-1.console.aws.amazon.com/vpcconsole/home?region=us-west-1#subnets:
+--------------------------------------------------
+Time: 2024-10-20 11:24:30
+Title: Dashboard - RDS Management Console
+URL: https://us-west-1.console.aws.amazon.com/rds/home?region=us-west-1
+--------------------------------------------------
+Time: 2024-10-20 11:24:32
+Title: Dashboard - RDS Management Console
+URL: https://us-west-1.console.aws.amazon.com/rds/home?region=us-west-1#
+--------------------------------------------------
+Time: 2024-10-20 11:24:37
+Title: Databases - RDS Management Console
+URL: https://us-west-1.console.aws.amazon.com/rds/home?region=us-west-1#databases:
+--------------------------------------------------
+Time: 2024-10-20 11:27:45
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills?year=2024&month=9
+--------------------------------------------------
+Time: 2024-10-20 11:42:33
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills?year=2024&month=8
+--------------------------------------------------
+Time: 2024-10-20 11:42:35
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills?year=2024&month=9
+--------------------------------------------------
+Time: 2024-10-20 11:46:30
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills?year=2024&month=8
+--------------------------------------------------
+Time: 2024-10-20 11:49:04
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills?year=2024&month=10
+--------------------------------------------------
+Time: 2024-10-20 12:02:05
+Title: Databases - RDS Management Console
+URL: https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#databases:
+--------------------------------------------------
+Time: 2024-10-20 12:02:07
+Title: Databases - RDS Management Console
+URL: https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#databases:
+--------------------------------------------------
+Time: 2024-10-20 12:02:19
+Title: Home | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 12:02:20
+Title: Home | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Home:
+--------------------------------------------------
+Time: 2024-10-20 12:02:27
+Title: Reserved Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ReservedInstances:
+--------------------------------------------------
+Time: 2024-10-20 12:02:28
+Title: Reserved Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ReservedInstances:
+--------------------------------------------------
+Time: 2024-10-20 12:02:28
+Title: Reserved Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ReservedInstances:
+--------------------------------------------------
+Time: 2024-10-20 12:03:29
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:
+--------------------------------------------------
+Time: 2024-10-20 12:03:30
+Title: Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false;sort=instanceState
+--------------------------------------------------
+Time: 2024-10-20 12:03:56
+Title: Reserved Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ReservedInstances:
+--------------------------------------------------
+Time: 2024-10-20 12:06:34
+Title: ChatGPT
+URL: https://chatgpt.com/
+--------------------------------------------------
+Time: 2024-10-20 12:07:44
+Title: Hourly Rate Explanation
+URL: https://chatgpt.com/c/67149e30-3e18-8004-b2ad-f08fc36efc1a
+--------------------------------------------------
+Time: 2024-10-20 12:23:57
+Title: who is the creator FAST API - Google Search
+URL: https://www.google.com/search?q=who+is+the+creator+FAST+API&oq=who+is+the+creator+FAST+API&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTE0MDcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 12:23:57
+Title: who is the creator FAST API - Google Search
+URL: https://www.google.com/search?q=who+is+the+creator+FAST+API&oq=who+is+the+creator+FAST+API&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTE0MDcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 12:24:01
+Title: FastAPI - Wikipedia
+URL: https://en.wikipedia.org/wiki/FastAPI
+--------------------------------------------------
+Time: 2024-10-20 12:24:26
+Title: who is the creator FAST API - Google Search
+URL: https://www.google.com/search?q=who+is+the+creator+FAST+API&oq=who+is+the+creator+FAST+API&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTE0MDcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 12:24:42
+Title: Sebastián Ramírez details - Google Search
+URL: https://www.google.com/search?q=Sebasti%C3%A1n+Ram%C3%ADrez+details&oq=Sebasti%C3%A1n+Ram%C3%ADrez+details&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDM5MDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 12:24:43
+Title: Sebastián Ramírez details - Google Search
+URL: https://www.google.com/search?q=Sebasti%C3%A1n+Ram%C3%ADrez+details&oq=Sebasti%C3%A1n+Ram%C3%ADrez+details&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDM5MDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 12:24:45
+Title: Sebastián Ramírez - Player profile 2024 | Transfermarkt
+URL: https://www.transfermarkt.com/sebastian-ramirez/profil/spieler/728245
+--------------------------------------------------
+Time: 2024-10-20 12:25:03
+Title: Sebastián Ramírez details - Google Search
+URL: https://www.google.com/search?q=Sebasti%C3%A1n+Ram%C3%ADrez+details&oq=Sebasti%C3%A1n+Ram%C3%ADrez+details&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDM5MDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 12:25:10
+Title: Sebastián Ramírez fast api develoeprs - Google Search
+URL: https://www.google.com/search?q=Sebasti%C3%A1n+Ram%C3%ADrez+fast+api+develoeprs&sca_esv=c9b165f8b0051b14&sxsrf=ADLYWIKPlbYyeT5V-Ed5qc0MdgI_h_g4yw%3A1729405484237&ei=LKIUZ_yVDpOMnesPiI2zsQY&ved=0ahUKEwj82728qZyJAxUTRmcHHYjGLGYQ4dUDCA8&uact=5&oq=Sebasti%C3%A1n+Ram%C3%ADrez+fast+api+develoeprs&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ1NlYmFzdGnDoW4gUmFtw61yZXogZmFzdCBhcGkgZGV2ZWxvZXByczIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkj4KVCUClj5KHADeACQAQCYAfUBoAGqHqoBBjAuNy4xMrgBA8gBAPgBAZgCEqACmB7CAgUQABiABMICCBAAGBYYChgewgIGEAAYFhgewgIIEAAYgAQYogTCAgkQABiABBgTGArCAgoQABgTGBYYChgewgIHEAAYgAQYDcICBhAAGA0YHpgDAIgGAZIHBjAuNS4xM6AHlVo&sclient=gws-wiz-serp
+--------------------------------------------------
+Time: 2024-10-20 12:25:11
+Title: Sebastián Ramírez fast api develoeprs - Google Search
+URL: https://www.google.com/search?q=Sebasti%C3%A1n+Ram%C3%ADrez+fast+api+develoeprs&sca_esv=c9b165f8b0051b14&sxsrf=ADLYWIKPlbYyeT5V-Ed5qc0MdgI_h_g4yw%3A1729405484237&ei=LKIUZ_yVDpOMnesPiI2zsQY&ved=0ahUKEwj82728qZyJAxUTRmcHHYjGLGYQ4dUDCA8&uact=5&oq=Sebasti%C3%A1n+Ram%C3%ADrez+fast+api+develoeprs&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ1NlYmFzdGnDoW4gUmFtw61yZXogZmFzdCBhcGkgZGV2ZWxvZXByczIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkj4KVCUClj5KHADeACQAQCYAfUBoAGqHqoBBjAuNy4xMrgBA8gBAPgBAZgCEqACmB7CAgUQABiABMICCBAAGBYYChgewgIGEAAYFhgewgIIEAAYgAQYogTCAgkQABiABBgTGArCAgoQABgTGBYYChgewgIHEAAYgAQYDcICBhAAGA0YHpgDAIgGAZIHBjAuNS4xM6AHlVo&sclient=gws-wiz-serp
+--------------------------------------------------
+Time: 2024-10-20 12:25:14
+Title: Sebastián Ramírez Montaño – Sequoia Capital | LinkedIn
+URL: https://de.linkedin.com/in/tiangolo
+--------------------------------------------------
+Time: 2024-10-20 12:25:34
+Title: External Redirection | LinkedIn
+URL: https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftiangolo%2Ecom&urlhash=2xtT&trk=public_profile_website
+--------------------------------------------------
+Time: 2024-10-20 12:25:38
+Title: tiangolo's boring personal website
+URL: https://tiangolo.com/
+--------------------------------------------------
+Time: 2024-10-20 12:25:52
+Title: Open Source - tiangolo's boring personal website
+URL: https://tiangolo.com/open-source/
+--------------------------------------------------
+Time: 2024-10-20 12:33:30
+Title: ChatGPT
+URL: https://chatgpt.com/?model=auto
+--------------------------------------------------
+Time: 2024-10-20 12:33:35
+Title: ChatGPT
+URL: https://chatgpt.com/c/6714a440-69b4-8004-8426-6576b5f692a1
+--------------------------------------------------
+Time: 2024-10-20 12:34:43
+Title: almonds nutrition - Google Search
+URL: https://www.google.com/search?q=almonds+nutrition&oq=almonds+nut&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMxMjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+--------------------------------------------------
+Time: 2024-10-20 12:35:44
+Title: Hourly Rate Explanation
+URL: https://chatgpt.com/c/67149e30-3e18-8004-b2ad-f08fc36efc1a
+--------------------------------------------------
+Time: 2024-10-20 12:38:42
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:
+--------------------------------------------------
+Time: 2024-10-20 12:39:08
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills?year=2024&month=8
+--------------------------------------------------
+Time: 2024-10-20 12:44:41
+Title: Reserved Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ReservedInstances:
+--------------------------------------------------
+Time: 2024-10-20 12:48:30
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:
+--------------------------------------------------
+Time: 2024-10-20 12:48:35
+Title: Instances | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:sort=instanceTypeFilter
+--------------------------------------------------
+Time: 2024-10-20 12:49:21
+Title: Billing Management Console
+URL: https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/bills?year=2024&month=10
+--------------------------------------------------
+Time: 2024-10-20 13:02:49
+Title: amarkagojpatro.com - details
+URL: https://us-east-1.console.aws.amazon.com/route53/v2/hostedzones?region=us-east-1#ListRecordSets/Z01458091LKLEQ84ISNMA
+--------------------------------------------------
+Time: 2024-10-20 13:06:39
+Title: Load balancers | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancers:
+--------------------------------------------------
+Time: 2024-10-20 13:06:42
+Title: Load balancers | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancers:v=3;$case=tags:false%5C,client:false;$regex=tags:false%5C,client:false
+--------------------------------------------------
+Time: 2024-10-20 13:06:51
+Title: Target groups | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#TargetGroups:
+--------------------------------------------------
+Time: 2024-10-20 13:06:51
+Title: Target groups | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#TargetGroups:
+--------------------------------------------------
+Time: 2024-10-20 13:06:56
+Title: Target group details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#TargetGroup:targetGroupArn=arn:aws:elasticloadbalancing:us-east-1:061048993398:targetgroup/TBD-MULTHOST-TG-2/e14951a9ed391f0c
+--------------------------------------------------
+Time: 2024-10-20 13:07:11
+Title: Load balancers | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancers:
+--------------------------------------------------
+Time: 2024-10-20 13:07:12
+Title: Load balancers | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancers:v=3;$case=tags:false%5C,client:false;$regex=tags:false%5C,client:false
+--------------------------------------------------
+Time: 2024-10-20 13:07:13
+Title: Load balancer details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancer:loadBalancerArn=arn:aws:elasticloadbalancing:us-east-1:061048993398:loadbalancer/app/TBD-MULTIHOSTTG-2-ALB/715680905bc06849;tab=listeners
+--------------------------------------------------
+Time: 2024-10-20 13:07:30
+Title: Target groups | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#TargetGroups:
+--------------------------------------------------
+Time: 2024-10-20 13:07:30
+Title: Target groups | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#TargetGroups:
+--------------------------------------------------
+Time: 2024-10-20 13:07:38
+Title: Load balancer details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancer:loadBalancerArn=arn:aws:elasticloadbalancing:us-east-1:061048993398:loadbalancer/app/TBD-MULTIHOSTTG-2-ALB/715680905bc06849;tab=listeners
+--------------------------------------------------
+Time: 2024-10-20 13:07:41
+Title: Target group details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#TargetGroup:targetGroupArn=arn:aws:elasticloadbalancing:us-east-1:061048993398:targetgroup/TBD-MULTHOST-TG-2/e14951a9ed391f0c
+--------------------------------------------------
+Time: 2024-10-20 13:08:10
+Title: Load balancers | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancers:
+--------------------------------------------------
+Time: 2024-10-20 13:08:10
+Title: Load balancers | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancers:v=3;$case=tags:false%5C,client:false;$regex=tags:false%5C,client:false
+--------------------------------------------------
+Time: 2024-10-20 13:08:19
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:
+--------------------------------------------------
+Time: 2024-10-20 13:27:45
+Title: YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM
+--------------------------------------------------
+Time: 2024-10-20 13:27:46
+Title: YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM
+--------------------------------------------------
+Time: 2024-10-20 13:27:46
+Title: ই-রা-নের সঙ্গে হাত মেলালো বাংলাদেশ সহ বিশ্বের ৮টি দেশ!|Ekattortv - YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM&ab_channel=EkattorTV
+--------------------------------------------------
+Time: 2024-10-20 13:27:46
+Title: ই-রা-নের সঙ্গে হাত মেলালো বাংলাদেশ সহ বিশ্বের ৮টি দেশ!|Ekattortv - YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM&ab_channel=EkattorTV
+--------------------------------------------------
+Time: 2024-10-20 13:27:48
+Title: ই-রা-নের সঙ্গে হাত মেলালো বাংলাদেশ সহ বিশ্বের ৮টি দেশ!|Ekattortv - YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM&ab_channel=EkattorTV
+--------------------------------------------------
+Time: 2024-10-20 13:27:50
+Title: YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM
+--------------------------------------------------
+Time: 2024-10-20 13:27:50
+Title: ই-রা-নের সঙ্গে হাত মেলালো বাংলাদেশ সহ বিশ্বের ৮টি দেশ!|Ekattortv - YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM&ab_channel=EkattorTV
+--------------------------------------------------
+Time: 2024-10-20 13:27:54
+Title: ই-রা-নের সঙ্গে হাত মেলালো বাংলাদেশ সহ বিশ্বের ৮টি দেশ!|Ekattortv - YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM&ab_channel=EkattorTV
+--------------------------------------------------
+Time: 2024-10-20 13:27:55
+Title: YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM
+--------------------------------------------------
+Time: 2024-10-20 13:27:55
+Title: ই-রা-নের সঙ্গে হাত মেলালো বাংলাদেশ সহ বিশ্বের ৮টি দেশ!|Ekattortv - YouTube
+URL: https://www.youtube.com/watch?v=O3f0DSl9GcM&ab_channel=EkattorTV
+--------------------------------------------------
+Time: 2024-10-20 13:29:23
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 13:30:01
+Title: ই-রা-নের সঙ্গে হাত মেলালো বাংলাদেশ সহ বিশ্বের ৮টি দেশ!|Ekattortv - YouTube
+URL: https://www.youtube.com/watch?v=JGINdZOCSwU
+--------------------------------------------------
+Time: 2024-10-20 13:30:01
+Title: ৭২ থেকে ৭৫, যে ইতিহাস জানতে দেয়া হয়নি এতদিন! | Sheikh Mujib | Awami League | Dictator | BanglaVision - YouTube
+URL: https://www.youtube.com/watch?v=JGINdZOCSwU&ab_channel=BVNEWS24
+--------------------------------------------------
+Time: 2024-10-20 13:30:02
+Title: ই-রা-নের সঙ্গে হাত মেলালো বাংলাদেশ সহ বিশ্বের ৮টি দেশ!|Ekattortv - YouTube
+URL: https://www.youtube.com/watch?v=JGINdZOCSwU
+--------------------------------------------------
+Time: 2024-10-20 13:30:02
+Title: ৭২ থেকে ৭৫, যে ইতিহাস জানতে দেয়া হয়নি এতদিন! | Sheikh Mujib | Awami League | Dictator | BanglaVision - YouTube
+URL: https://www.youtube.com/watch?v=JGINdZOCSwU&ab_channel=BVNEWS24
+--------------------------------------------------
+Time: 2024-10-20 13:34:10
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 13:34:39
+Title: ৭২ থেকে ৭৫, যে ইতিহাস জানতে দেয়া হয়নি এতদিন! | Sheikh Mujib | Awami League | Dictator | BanglaVision - YouTube
+URL: https://www.youtube.com/watch?v=GFRTtN7h6Q0
+--------------------------------------------------
+Time: 2024-10-20 13:34:40
+Title: ৭২ থেকে ৭৫, যে ইতিহাস জানতে দেয়া হয়নি এতদিন! | Sheikh Mujib | Awami League | Dictator | BanglaVision - YouTube
+URL: https://www.youtube.com/watch?v=GFRTtN7h6Q0
+--------------------------------------------------
+Time: 2024-10-20 13:34:40
+Title: দাজ্জাল কোন দ্বীপে আটক | Sadikur Rahman Azhari Waz Dajjal - YouTube
+URL: https://www.youtube.com/watch?v=GFRTtN7h6Q0&ab_channel=IslamicVoice
+--------------------------------------------------
+Time: 2024-10-20 13:34:40
+Title: দাজ্জাল কোন দ্বীপে আটক | Sadikur Rahman Azhari Waz Dajjal - YouTube
+URL: https://www.youtube.com/watch?v=GFRTtN7h6Q0&ab_channel=IslamicVoice
+--------------------------------------------------
+Time: 2024-10-20 13:35:15
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 13:35:33
+Title: দাজ্জাল কোন দ্বীপে আটক | Sadikur Rahman Azhari Waz Dajjal - YouTube
+URL: https://www.youtube.com/watch?v=NjGkLoxGq8E
+--------------------------------------------------
+Time: 2024-10-20 13:35:33
+Title: Here's WHY Every Nation Begs For NEW Japanese Aircraft - YouTube
+URL: https://www.youtube.com/watch?v=NjGkLoxGq8E&ab_channel=WingedWorld
+--------------------------------------------------
+Time: 2024-10-20 13:35:34
+Title: দাজ্জাল কোন দ্বীপে আটক | Sadikur Rahman Azhari Waz Dajjal - YouTube
+URL: https://www.youtube.com/watch?v=NjGkLoxGq8E
+--------------------------------------------------
+Time: 2024-10-20 13:35:34
+Title: Here's WHY Every Nation Begs For NEW Japanese Aircraft - YouTube
+URL: https://www.youtube.com/watch?v=NjGkLoxGq8E&ab_channel=WingedWorld
+--------------------------------------------------
+Time: 2024-10-20 13:36:38
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 14:00:01
+Title: ChatGPT
+URL: https://chatgpt.com/?model=auto
+--------------------------------------------------
+Time: 2024-10-20 14:01:33
+Title: Pipelines | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/home?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:01:35
+Title: Pipelines | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/home?region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 14:01:37
+Title: Pipelines | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:01:37
+Title: Pipelines | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines?region=us-east-1&pipelines-meta=eyJmIjp7InRleHQiOiIifSwicyI6eyJwcm9wZXJ0eSI6InVwZGF0ZWQiLCJkaXJlY3Rpb24iOi0xfSwibiI6MzAsImkiOjB9
+--------------------------------------------------
+Time: 2024-10-20 14:02:09
+Title: dev-api.amarkagojpatro.com | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/dev-api.amarkagojpatro.com/view?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:02:17
+Title: S3 Management Console
+URL: https://us-east-1.console.aws.amazon.com/s3/object/codepipeline-us-east-1-983859231170/dev-api.amarkagojpat/SourceArti/F8bGUcF?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:02:19
+Title: dev-api.amarkagojpat/SourceArti/F8bGUcF - Object in S3 bucket codepipeline-us-east-1-983859231170 | S3 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/s3/object/codepipeline-us-east-1-983859231170?region=us-east-1&prefix=dev-api.amarkagojpat/SourceArti/F8bGUcF
+--------------------------------------------------
+Time: 2024-10-20 14:03:26
+Title: Applications | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:03:28
+Title: Applications | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 14:03:46
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:03:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:03:57
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:03:57
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:03:57
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:03:57
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:03:57
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:03:57
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:03:57
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:03:57
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:04:42
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 14:04:44
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ConnectToInstance:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 14:04:44
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ConnectToInstance:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 14:04:46
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 14:04:47
+Title: EC2 Instance Connect
+URL: https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?region=us-east-1&connType=standard&instanceId=i-0bd2d4e7fdc7b1659&osUser=ubuntu&sshPort=22&addressFamily=ipv4
+--------------------------------------------------
+Time: 2024-10-20 14:04:47
+Title: EC2 Instance Connect
+URL: https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?region=us-east-1&connType=standard&instanceId=i-0bd2d4e7fdc7b1659&osUser=ubuntu&sshPort=22&addressFamily=ipv4#/
+--------------------------------------------------
+Time: 2024-10-20 14:06:00
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:
+--------------------------------------------------
+Time: 2024-10-20 14:06:00
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false;sort=instanceTypeFilter
+--------------------------------------------------
+Time: 2024-10-20 14:06:58
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-05f153c2715676d6c
+--------------------------------------------------
+Time: 2024-10-20 14:08:11
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:08:19
+Title: Pipelines | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:08:20
+Title: Pipelines | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines?region=us-east-1&pipelines-meta=eyJmIjp7InRleHQiOiIifSwicyI6eyJwcm9wZXJ0eSI6InVwZGF0ZWQiLCJkaXJlY3Rpb24iOi0xfSwibiI6MzAsImkiOjB9
+--------------------------------------------------
+Time: 2024-10-20 14:08:23
+Title: Pipelines | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines?region=us-east-1&pipelines-meta=eyJmIjp7InRleHQiOiIifSwicyI6eyJwcm9wZXJ0eSI6InVwZGF0ZWQiLCJkaXJlY3Rpb24iOi0xfSwibiI6MzAsImkiOjB9
+--------------------------------------------------
+Time: 2024-10-20 14:08:25
+Title: Pipelines | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines?region=us-east-1&pipelines-meta=eyJmIjp7InRleHQiOiIifSwicyI6eyJwcm9wZXJ0eSI6InVwZGF0ZWQiLCJkaXJlY3Rpb24iOi0xfSwibiI6MzAsImkiOjB9
+--------------------------------------------------
+Time: 2024-10-20 14:08:27
+Title: dev-api.amarkagojpatro.com | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/dev-api.amarkagojpatro.com/view?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:09:36
+Title: Applications | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:10:03
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:10:12
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com/edit?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:11:24
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:11:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:31
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:11:35
+Title: Applications | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:11:41
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:11:53
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:11:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:11:54
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:12:08
+Title: CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/settings/connections/redirect?Commit=fb51e67f713b30e8985fd15650ad04cb04cbf6cd&FullRepositoryId=TechnobdTeam%2Fapi.amarkagojpatro.com&connectionArn=arn%3Aaws%3Acodestar-connections%3Aus-east-1%3A061048993398%3Aconnection%2Fe3c582a9-85f0-4a16-9081-e5785ae27d5a&referenceType=COMMIT&region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 14:12:08
+Title: CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/settings/connections/redirect?connectionArn=arn:aws:codestar-connections:us-east-1:061048993398:connection/e3c582a9-85f0-4a16-9081-e5785ae27d5a&referenceType=COMMIT&FullRepositoryId=TechnobdTeam/api.amarkagojpatro.com&Commit=fb51e67f713b30e8985fd15650ad04cb04cbf6cd
+--------------------------------------------------
+Time: 2024-10-20 14:12:10
+Title: CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/settings/connections/redirect?Commit=fb51e67f713b30e8985fd15650ad04cb04cbf6cd&FullRepositoryId=TechnobdTeam%2Fapi.amarkagojpatro.com&connectionArn=arn%3Aaws%3Acodestar-connections%3Aus-east-1%3A061048993398%3Aconnection%2Fe3c582a9-85f0-4a16-9081-e5785ae27d5a&referenceType=COMMIT&region=us-east-1#
+--------------------------------------------------
+Time: 2024-10-20 14:12:31
+Title: S3 Management Console
+URL: https://us-east-1.console.aws.amazon.com/s3/object/codepipeline-us-east-1-983859231170/dev-api.amarkagojpat/SourceArti/RrUP180?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:12:32
+Title: dev-api.amarkagojpat/SourceArti/RrUP180 - Object in S3 bucket codepipeline-us-east-1-983859231170 | S3 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/s3/object/codepipeline-us-east-1-983859231170?region=us-east-1&prefix=dev-api.amarkagojpat/SourceArti/RrUP180
+--------------------------------------------------
+Time: 2024-10-20 14:12:58
+Title: 
+URL: https://codepipeline-us-east-1-983859231170.s3.amazonaws.com/dev-api.amarkagojpat/SourceArti/RrUP180
+--------------------------------------------------
+Time: 2024-10-20 14:12:59
+Title: dev-api.amarkagojpat/SourceArti/RrUP180 - Object in S3 bucket codepipeline-us-east-1-983859231170 | S3 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/s3/object/codepipeline-us-east-1-983859231170?region=us-east-1&prefix=dev-api.amarkagojpat/SourceArti/RrUP180
+--------------------------------------------------
+Time: 2024-10-20 14:16:11
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:16:12
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:16:20
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:16:20
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:23
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:24
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:26
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:28
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:16:29
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:29
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:29
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:29
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:30
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:31
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:31
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:41
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:16:49
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployments?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:16:49
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:52
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:52
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:16:53
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:16:59
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:17:05
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:17:05
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:17:08
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:17:11
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:17:13
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:17:13
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:17:33
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployments?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:17:33
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:17:35
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:17:35
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployments?region=us-east-1&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:17:50
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:18:04
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:18:09
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:18:11
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:11
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:11
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:11
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:11
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:12
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:12
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:12
+Title: dev-api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/dev-api.amarkagojpatro.com/deployment-groups/dev-api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:14
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:18:15
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:15
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:15
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:15
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:15
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:18:18
+Title: api.amarkagojpatro.com | CodeDeploy | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications/api.amarkagojpatro.com/deployment-groups/api.amarkagojpatro.com?region=us-east-1&tags-meta=eyJmIjp7fSwicyI6e30sIm4iOjIwLCJpIjowfQ&deployments-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjIwLCJpIjowfQ
+--------------------------------------------------
+Time: 2024-10-20 14:20:34
+Title: Claude
+URL: https://claude.ai/new
+--------------------------------------------------
+Time: 2024-10-20 14:25:39
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:
+--------------------------------------------------
+Time: 2024-10-20 14:25:39
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false;sort=instanceTypeFilter
+--------------------------------------------------
+Time: 2024-10-20 14:25:53
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false;sort=tag:Name
+--------------------------------------------------
+Time: 2024-10-20 14:25:58
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 14:26:05
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ConnectToInstance:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 14:26:05
+Title: Instance details | EC2 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ConnectToInstance:instanceId=i-0bd2d4e7fdc7b1659
+--------------------------------------------------
+Time: 2024-10-20 14:26:08
+Title: EC2 Instance Connect
+URL: https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?region=us-east-1&connType=standard&instanceId=i-0bd2d4e7fdc7b1659&osUser=ubuntu&sshPort=22&addressFamily=ipv4
+--------------------------------------------------
+Time: 2024-10-20 14:26:56
+Title: dev-api.amarkagojpatro.com | CodePipeline | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/dev-api.amarkagojpatro.com/view?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:27:16
+Title: S3 Management Console
+URL: https://us-east-1.console.aws.amazon.com/s3/object/codepipeline-us-east-1-983859231170/dev-api.amarkagojpat/SourceArti/RrUP180?region=us-east-1
+--------------------------------------------------
+Time: 2024-10-20 14:27:17
+Title: dev-api.amarkagojpat/SourceArti/RrUP180 - Object in S3 bucket codepipeline-us-east-1-983859231170 | S3 | us-east-1
+URL: https://us-east-1.console.aws.amazon.com/s3/object/codepipeline-us-east-1-983859231170?region=us-east-1&prefix=dev-api.amarkagojpat/SourceArti/RrUP180
+--------------------------------------------------
+Time: 2024-10-20 15:12:09
+Title: Here's WHY Every Nation Begs For NEW Japanese Aircraft - YouTube
+URL: https://www.youtube.com/watch?v=z8pAyoT1v-s
+--------------------------------------------------
+Time: 2024-10-20 15:12:10
+Title: Here's WHY Every Nation Begs For NEW Japanese Aircraft - YouTube
+URL: https://www.youtube.com/watch?v=z8pAyoT1v-s
+--------------------------------------------------
+Time: 2024-10-20 15:12:10
+Title: Sri Lanka 'A' vs Hong Kong, China | Match 5 | Men's T20 Emerging Teams Asia Cup - YouTube
+URL: https://www.youtube.com/watch?v=z8pAyoT1v-s&ab_channel=AsianCricketCouncil
+--------------------------------------------------
+Time: 2024-10-20 15:12:10
+Title: Sri Lanka 'A' vs Hong Kong, China | Match 5 | Men's T20 Emerging Teams Asia Cup - YouTube
+URL: https://www.youtube.com/watch?v=z8pAyoT1v-s&ab_channel=AsianCricketCouncil
+--------------------------------------------------
+Time: 2024-10-20 15:13:41
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 15:13:45
+Title: Sri Lanka 'A' vs Hong Kong, China | Match 5 | Men's T20 Emerging Teams Asia Cup - YouTube
+URL: https://www.youtube.com/watch?v=xQlQ0OYwyU0
+--------------------------------------------------
+Time: 2024-10-20 15:13:46
+Title: Sri Lanka 'A' vs Hong Kong, China | Match 5 | Men's T20 Emerging Teams Asia Cup - YouTube
+URL: https://www.youtube.com/watch?v=xQlQ0OYwyU0
+--------------------------------------------------
+Time: 2024-10-20 15:13:46
+Title: '53 Israeli Casualties In 24 Hours': Big Blow For IDF As Iran-Backed Resistance Groups Roar - YouTube
+URL: https://www.youtube.com/watch?v=xQlQ0OYwyU0&ab_channel=TimesOfIndia
+--------------------------------------------------
+Time: 2024-10-20 15:13:46
+Title: '53 Israeli Casualties In 24 Hours': Big Blow For IDF As Iran-Backed Resistance Groups Roar - YouTube
+URL: https://www.youtube.com/watch?v=xQlQ0OYwyU0&ab_channel=TimesOfIndia
+--------------------------------------------------
+Time: 2024-10-20 15:15:46
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
+Time: 2024-10-20 15:16:33
+Title: '53 Israeli Casualties In 24 Hours': Big Blow For IDF As Iran-Backed Resistance Groups Roar - YouTube
+URL: https://www.youtube.com/watch?v=ry4VgRIFqpw
+--------------------------------------------------
+Time: 2024-10-20 15:16:34
+Title: ইসরায়েলের ইরান হামলা পরিকল্পনার মার্কিন গোয়েন্দা নথি ফাঁস! | Israel's plan to attack Iran Leaked - YouTube
+URL: https://www.youtube.com/watch?v=ry4VgRIFqpw&ab_channel=Channel24
+--------------------------------------------------
+Time: 2024-10-20 15:16:35
+Title: '53 Israeli Casualties In 24 Hours': Big Blow For IDF As Iran-Backed Resistance Groups Roar - YouTube
+URL: https://www.youtube.com/watch?v=ry4VgRIFqpw
+--------------------------------------------------
+Time: 2024-10-20 15:16:35
+Title: ইসরায়েলের ইরান হামলা পরিকল্পনার মার্কিন গোয়েন্দা নথি ফাঁস! | Israel's plan to attack Iran Leaked - YouTube
+URL: https://www.youtube.com/watch?v=ry4VgRIFqpw&ab_channel=Channel24
+--------------------------------------------------
+Time: 2024-10-20 15:17:21
+Title: YouTube
+URL: https://www.youtube.com/
+--------------------------------------------------
